@@ -1,0 +1,231 @@
+,UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined_Key,Date,Confirmed
+480,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/10/2020,1
+481,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/10/2020,0
+482,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/10/2020,0
+483,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/10/2020,0
+484,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/10/2020,0
+485,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/10/2020,0
+486,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/10/2020,0
+487,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/10/2020,0
+488,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/10/2020,0
+489,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/10/2020,0
+490,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/11/2020,2
+491,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/11/2020,0
+492,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/11/2020,1
+493,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/11/2020,0
+494,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/11/2020,0
+495,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/11/2020,0
+496,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/11/2020,0
+497,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/11/2020,0
+498,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/11/2020,0
+499,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/11/2020,0
+500,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/12/2020,4
+501,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/12/2020,0
+502,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/12/2020,1
+503,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/12/2020,0
+504,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/12/2020,0
+505,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/12/2020,0
+506,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/12/2020,0
+507,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/12/2020,0
+508,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/12/2020,0
+509,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/12/2020,0
+510,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/13/2020,8
+511,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/13/2020,0
+512,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/13/2020,3
+513,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/13/2020,0
+514,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/13/2020,0
+515,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/13/2020,0
+516,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/13/2020,0
+517,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/13/2020,0
+518,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/13/2020,0
+519,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/13/2020,0
+520,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/14/2020,15
+521,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/14/2020,1
+522,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/14/2020,3
+523,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/14/2020,0
+524,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/14/2020,4
+525,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/14/2020,0
+526,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/14/2020,0
+527,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/14/2020,0
+528,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/14/2020,0
+529,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/14/2020,0
+530,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/15/2020,15
+531,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/15/2020,2
+532,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/15/2020,3
+533,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/15/2020,0
+534,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/15/2020,4
+535,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/15/2020,0
+536,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/15/2020,0
+537,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/15/2020,0
+538,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/15/2020,0
+539,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/15/2020,0
+540,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/16/2020,29
+541,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/16/2020,4
+542,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/16/2020,4
+543,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/16/2020,0
+544,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/16/2020,4
+545,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/16/2020,0
+546,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/16/2020,0
+547,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/16/2020,0
+548,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/16/2020,0
+549,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/16/2020,0
+550,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/17/2020,48
+551,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/17/2020,7
+552,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/17/2020,5
+553,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/17/2020,0
+554,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/17/2020,8
+555,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/17/2020,0
+556,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/17/2020,0
+557,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/17/2020,0
+558,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/17/2020,0
+559,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/17/2020,0
+560,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/18/2020,69
+561,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/18/2020,11
+562,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/18/2020,5
+563,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/18/2020,1
+564,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/18/2020,10
+565,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/18/2020,0
+566,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/18/2020,0
+567,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/18/2020,0
+568,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/18/2020,0
+569,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/18/2020,0
+570,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/19/2020,102
+571,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/19/2020,18
+572,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/19/2020,7
+573,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/19/2020,3
+574,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/19/2020,23
+575,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/19/2020,0
+576,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/19/2020,4
+577,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/19/2020,0
+578,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/19/2020,0
+579,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/19/2020,2
+580,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/20/2020,122
+581,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/20/2020,29
+582,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/20/2020,8
+583,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/20/2020,5
+584,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/20/2020,23
+585,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/20/2020,1
+586,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/20/2020,4
+587,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/20/2020,2
+588,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/20/2020,0
+589,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/20/2020,0
+590,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/21/2020,122
+591,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/21/2020,29
+592,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/21/2020,8
+593,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/21/2020,5
+594,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/21/2020,23
+595,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/21/2020,1
+596,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/21/2020,4
+597,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/21/2020,2
+598,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/21/2020,0
+599,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/21/2020,0
+600,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/22/2020,208
+601,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/22/2020,54
+602,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/22/2020,12
+603,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/22/2020,6
+604,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/22/2020,29
+605,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/22/2020,3
+606,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/22/2020,14
+607,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/22/2020,1
+608,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/22/2020,0
+609,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/22/2020,0
+610,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/23/2020,270
+611,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/23/2020,61
+612,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/23/2020,13
+613,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/23/2020,8
+614,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/23/2020,41
+615,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/23/2020,4
+616,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/23/2020,16
+617,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/23/2020,2
+618,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/23/2020,0
+619,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/23/2020,0
+620,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/24/2020,384
+621,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/24/2020,88
+622,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/24/2020,22
+623,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/24/2020,8
+624,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/24/2020,89
+625,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/24/2020,6
+626,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/24/2020,19
+627,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/24/2020,2
+628,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/24/2020,0
+629,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/24/2020,0
+630,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/25/2020,546
+631,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/25/2020,116
+632,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/25/2020,33
+633,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/25/2020,15
+634,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/25/2020,127
+635,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/25/2020,9
+636,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/25/2020,27
+637,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/25/2020,2
+638,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/25/2020,0
+639,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/25/2020,0
+640,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/26/2020,607
+641,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/26/2020,138
+642,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/26/2020,44
+643,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/26/2020,18
+644,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/26/2020,156
+645,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/26/2020,13
+646,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/26/2020,33
+647,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/26/2020,3
+648,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/26/2020,0
+649,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/26/2020,0
+650,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/27/2020,752
+651,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/27/2020,189
+652,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/27/2020,52
+653,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/27/2020,25
+654,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/27/2020,222
+655,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/27/2020,15
+656,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/27/2020,33
+657,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/27/2020,3
+658,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/27/2020,0
+659,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/27/2020,0
+660,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/28/2020,908
+661,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/28/2020,228
+662,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/28/2020,65
+663,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/28/2020,28
+664,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/28/2020,236
+665,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/28/2020,19
+666,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/28/2020,37
+667,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/28/2020,3
+668,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/28/2020,0
+669,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/28/2020,0
+670,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/29/2020,1245
+671,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/29/2020,276
+672,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/29/2020,87
+673,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/29/2020,38
+674,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/29/2020,280
+675,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/29/2020,20
+676,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/29/2020,40
+677,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/29/2020,7
+678,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/29/2020,0
+679,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/29/2020,0
+680,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/30/2020,1445
+681,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/30/2020,330
+682,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/30/2020,113
+683,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/30/2020,50
+684,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/30/2020,373
+685,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/30/2020,24
+686,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/30/2020,50
+687,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/30/2020,10
+688,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/30/2020,0
+689,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/30/2020,176
+690,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",3/31/2020,1870
+691,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",3/31/2020,393
+692,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",3/31/2020,121
+693,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",3/31/2020,56
+694,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",3/31/2020,517
+695,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",3/31/2020,27
+696,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",3/31/2020,56
+697,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",3/31/2020,11
+698,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",3/31/2020,0
+699,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",3/31/2020,77
+700,84009001,US,USA,840,9001,Fairfield,Connecticut,US,41.26809896,-73.3881171,"Fairfield, Connecticut, US",4/1/2020,1986
+701,84009003,US,USA,840,9003,Hartford,Connecticut,US,41.80283011,-72.73103891,"Hartford, Connecticut, US",4/1/2020,469
+702,84009005,US,USA,840,9005,Litchfield,Connecticut,US,41.7937534,-73.2451475,"Litchfield, Connecticut, US",4/1/2020,131
+703,84009007,US,USA,840,9007,Middlesex,Connecticut,US,41.45949668,-72.53714864,"Middlesex, Connecticut, US",4/1/2020,66
+704,84009009,US,USA,840,9009,New Haven,Connecticut,US,41.4080325,-72.93620426,"New Haven, Connecticut, US",4/1/2020,611
+705,84009011,US,USA,840,9011,New London,Connecticut,US,41.48896435,-72.10430976,"New London, Connecticut, US",4/1/2020,29
+706,84009013,US,USA,840,9013,Tolland,Connecticut,US,41.85853803,-72.3308481,"Tolland, Connecticut, US",4/1/2020,61
+707,84009015,US,USA,840,9015,Windham,Connecticut,US,41.82972709,-71.98182316,"Windham, Connecticut, US",4/1/2020,19
+708,84080009,US,USA,840,80009,Out of CT,Connecticut,US,0,0,"Out of CT, Connecticut, US",4/1/2020,0
+709,84090009,US,USA,840,90009,Unassigned,Connecticut,US,0,0,"Unassigned, Connecticut, US",4/1/2020,185
