@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20200429</CreaDate><CreaTime>15443500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.7\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Slice" Date="20200429" Time="154435">Slice tc_testsites.tif C:\ArcData\COVIDlogistics\TestProximity.tif 256 EQUAL_INTERVAL 0</Process></lineage></DataProperties></Esri></metadata>
