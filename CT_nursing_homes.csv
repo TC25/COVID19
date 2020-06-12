@@ -1,0 +1,945 @@
+Town,Nursing home,Licensed beds,Residents with COVID-19,COVID-19 associated deaths among residents (laboratory-confirmed),COVID-19 associated deaths among residents (probable),Location,LAT,LNG,Date
+Avon,Apple Rehab Avon,60.00,7.00,1.00,0.00,"220 Scoville Rd, Avon, CT 06001, USA",41.78,-72.86,4/22/2020
+Berlin,Ledgecrest Health Care,60.00,19.00,1.00,1.00,"154 Kensington Rd, Berlin, CT 06037, USA",41.63,-72.77,4/22/2020
+Bethel,Bethel Health Care Center,161.00,37.00,4.00,3.00,"13 Park Lawn Dr, Bethel, CT 06801, USA",41.42,-73.40,4/22/2020
+Bloomfield,Bloomfield Center for Nursing and Rehabilitation ,120.00,20.00,5.00,4.00,"355 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.71,4/22/2020
+Bloomfield,Caleb Hitchcock Health Center,60.00,5.00,1.00,0.00,"10 Loeffler Rd, Bloomfield, CT 06002, USA",41.83,-72.76,4/22/2020
+Bloomfield,Seabury ,72.00,11.00,1.00,0.00,"Seabury Dr, Bloomfield, CT 06002, USA",41.83,-72.71,4/22/2020
+Bloomfield,Touchpoints at Bloomfield,150.00,21.00,6.00,1.00,"140 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.70,4/22/2020
+Branford,Branford Hills Health Care Center,190.00,72.00,4.00,1.00,"189 Alps Rd #4771, Branford, CT 06405, USA",41.27,-72.85,4/22/2020
+Bridgeport,Jewish Senior Services,294.00,37.00,8.00,1.00,"4200 Park Ave, Bridgeport, CT 06604, USA",41.21,-73.23,4/22/2020
+Bridgeport,Northbridge Healthcare Center,145.00,29.00,4.00,2.00,"2875 Main St, Bridgeport, CT 06606, USA",41.20,-73.20,4/22/2020
+Bridgeport,Springs at Watermark 3030 Park,23.00,7.00,2.00,0.00,"3030 Park Ave, Bridgeport, CT 06604, USA",41.20,-73.22,4/22/2020
+Bristol,Countryside Manor of Bristol,90.00,29.00,8.00,0.00,"1660 Stafford Ave, Bristol, CT 06010, USA",41.72,-72.91,4/22/2020
+Bristol,Sheridan Woods Health Care Center,146.00,68.00,22.00,2.00,"321 Stonecrest Dr, Bristol, CT 06010, USA",41.68,-72.92,4/22/2020
+Canton,Cherry Brook Health Care Center,100.00,39.00,5.00,1.00,"102 Dyer Ave, Canton, CT 06019, USA",41.83,-72.92,4/22/2020
+Cheshire,Elim Park Baptist Home,90.00,18.00,1.00,0.00,"150 Cook Hill Rd, Cheshire, CT 06410, USA",41.47,-72.90,4/22/2020
+Chester,Aaron Manor Nursing and Rehabilitation,60.00,25.00,7.00,0.00,"3 S Wig Hill Rd, Chester, CT 06412, USA",41.40,-72.48,4/22/2020
+Cromwell,Apple Rehab Cromwell,85.00,7.00,1.00,0.00,"156 Berlin Rd, Cromwell, CT 06416, USA",41.61,-72.71,4/22/2020
+Danbury,Filosa Nursing & Rehabilitation ,64.00,2.00,0.00,0.00,"13 Hakim St, Danbury, CT 06810, USA",41.40,-73.47,4/22/2020
+Danbury,Glen Hill Center,100.00,2.00,0.00,1.00,"1 Glen Hill Rd, Danbury, CT 06811, USA",41.41,-73.45,4/22/2020
+Danbury,Saint John Paul II Center,141.00,28.00,2.00,0.00,"33 Lincoln Ave, Danbury, CT 06810, USA",41.39,-73.45,4/22/2020
+Danbury,Western Rehabilitation Care Center,120.00,19.00,8.00,2.00,"107 Osborne St, Danbury, CT 06810, USA",41.40,-73.44,4/22/2020
+East Hartford, Riverside Health & Rehabilitation Center ,345.00,60.00,15.00,12.00,"745 Main St, East Hartford, CT 06108, USA",41.77,-72.65,4/22/2020
+East Haven,Apple Rehab Laurel Woods,120.00,16.00,1.00,2.00,"451 N High St, East Haven, CT 06512, USA",41.29,-72.87,4/22/2020
+East Haven,Whispering Pines,90.00,38.00,11.00,9.00,"38 Talmadge Ave, East Haven, CT 06512, USA",41.26,-72.86,4/22/2020
+East Windsor,Fresh River Healthcare,140.00,7.00,0.00,0.00,"96 Prospect Hill Rd, East Windsor, CT 06088, USA",41.93,-72.61,4/22/2020
+Enfield,Parkway Pavilion Health and Rehabilitation Center,130.00,92.00,7.00,3.00,"1157 Enfield St, Enfield, CT 06082, USA",41.99,-72.59,4/22/2020
+Fairfield,Cambridge Health and Rehabilitation Center,160.00,26.00,7.00,0.00,"2428 Easton Turnpike, Fairfield, CT 06825, USA",41.21,-73.25,4/22/2020
+Fairfield,Carolton Chronic & Convalescent ,229.00,27.00,6.00,0.00,"400 Mill Plain Rd, Fairfield, CT 06824, USA",41.15,-73.27,4/22/2020
+Fairfield,Ludlowe Center for Health & Rehabilitation,144.00,22.00,4.00,5.00,"118 Jefferson St, Fairfield, CT 06825, USA",41.22,-73.24,4/22/2020
+Farmington,Touchpoints at Farmington,105.00,41.00,6.00,0.00,"20 Scott Swamp Rd, Farmington, CT 06032, USA",41.71,-72.85,4/22/2020
+Glastonbury,Glastonbury Health Care Center,105.00,25.00,6.00,5.00,"1175 Hebron Ave, Glastonbury, CT 06033, USA",41.72,-72.57,4/22/2020
+Glastonbury,Salmon Brook Rehab and Nursing,130.00,25.00,6.00,1.00,"72 Salmon Brook Dr, Glastonbury, CT 06033, USA",41.72,-72.60,4/22/2020
+Greenwich,Greenwich Woods,217.00,16.00,5.00,1.00,"1165 King St, Greenwich, CT 06831, USA",41.06,-73.69,4/22/2020
+Greenwich,Nathaniel Witherall,202.00,31.00,6.00,1.00,"70 Parsonage Rd, Greenwich, CT 06830, USA",41.06,-73.63,4/22/2020
+Greenwich,RegalCare at Greenwich,75.00,5.00,1.00,0.00,"1188 King St, Greenwich, CT 06831, USA",41.06,-73.70,4/22/2020
+Groton,Mystic Healthcare & Rehabilitation Center,100.00,15.00,2.00,0.00,"475 High St, Mystic, CT 06355, USA",41.36,-71.98,4/22/2020
+Guilford,Apple Rehab Guilford,90.00,11.00,0.00,0.00,"10 Boston Post Rd, Guilford, CT 06437, USA",41.29,-72.65,4/22/2020
+Guilford,Guilford House,75.00,1.00,0.00,0.00,"109 W Lake Ave, Guilford, CT 06437, USA",41.31,-72.72,4/22/2020
+Hamden,Arden House ,360.00,30.00,7.00,0.00,"850 Mix Ave, Hamden, CT 06514, USA",41.38,-72.92,4/22/2020
+Hamden,Hamden Rehabilitation & Health Care Center ,153.00,31.00,3.00,0.00,"1270 Sherman Ave, Hamden, CT 06514, USA",41.39,-72.92,4/22/2020
+Hamden,Whitney Rehabilitation Care Center,150.00,24.00,1.00,0.00,"2798 Whitney Ave, Hamden, CT 06518, USA",41.40,-72.90,4/22/2020
+Hartford,Avery Nursing Home/Noble Building,199.00,3.00,0.00,0.00,"550 Avery Heights, Hartford, CT 06106, USA",41.73,-72.71,4/22/2020
+Hartford,Chelsea Place,234.00,24.00,6.00,6.00,"25 Lorraine St, Hartford, CT 06105, USA",41.77,-72.71,4/22/2020
+Hartford,Trinity Hill Care Center,144.00,53.00,4.00,0.00,"151 Hillside Ave, Hartford, CT 06106, USA",41.75,-72.70,4/22/2020
+Madison,Madison House,89.00,4.00,1.00,0.00,"34 Wildwood Ave, Madison, CT 06443, USA",41.29,-72.64,4/22/2020
+Manchester,Crestfield Rehabilitation Center,155.00,20.00,4.00,0.00,"565 Vernon St, Manchester, CT 06042, USA",41.80,-72.49,4/22/2020
+Manchester,Manchester Manor Health Care Center,126.00,18.00,0.00,0.00,"385 W Center St, Manchester, CT 06040, USA",41.77,-72.55,4/22/2020
+Manchester,Touchpoints at Manchester,131.00,33.00,11.00,4.00,"333 Bidwell St, Manchester, CT 06040, USA",41.76,-72.55,4/22/2020
+Manchester,Westside Care Center,162.00,1.00,0.00,0.00,"349 Bidwell St, Manchester, CT 06040, USA",41.76,-72.54,4/22/2020
+Marlborough,Marlborough Health Care Center,120.00,5.00,0.00,0.00,"85 Stage Harbor Rd, Marlborough, CT 06447, USA",41.65,-72.48,4/22/2020
+Meriden,Apple Rehab Coccomo,100.00,16.00,2.00,3.00,"33 Cone Ave, Meriden, CT 06450, USA",41.52,-72.75,4/22/2020
+Meriden,Silver Springs Care Center,159.00,5.00,0.00,0.00,"33 Roy St, Meriden, CT 06450, USA",41.53,-72.80,4/22/2020
+Meriden,The Curtis Home,60.00,8.00,1.00,0.00,"380 Crown St, Meriden, CT 06450, USA",41.53,-72.80,4/22/2020
+Middletown,Apple Rehab Middletown,70.00,8.00,2.00,2.00,"600 Highland Ave, Middletown, CT 06457, USA",41.53,-72.66,4/22/2020
+Middletown,Middlesex Health Care Center,150.00,25.00,5.00,1.00,"100 Randolph Rd, Middletown, CT 06457, USA",41.54,-72.62,4/22/2020
+Middletown,Water's Edge Center for Health & Rehabilitation,150.00,15.00,1.00,1.00,"111 Church St, Middletown, CT 06457, USA",41.56,-72.65,4/22/2020
+Milford,Golden Hill Rehab Pavilion,120.00,86.00,11.00,4.00,"2028 Bridgeport Ave, Milford, CT 06460, USA",41.22,-73.07,4/22/2020
+Milford,Milford Health and Rehabilitation Center,120.00,55.00,9.00,0.00,"195 Platt St, Milford, CT 06460, USA",41.21,-73.02,4/22/2020
+Milford,West River Rehab Center,120.00,14.00,1.00,0.00,"245 Orange Ave, Milford, CT 06461, USA",41.24,-73.05,4/22/2020
+Naugatuck ,Beacon Brook Health Center ,126.00,1.00,0.00,0.00,"89 Weid Dr, Naugatuck, CT 06770, USA",41.47,-73.03,4/22/2020
+Naugatuck ,Glendale Center,120.00,25.00,0.00,0.00,"4 Hazel Ave, Naugatuck, CT 06770, USA",41.47,-73.04,4/22/2020
+New Britain,Cassena Care at New Britain ,90.00,1.00,0.00,0.00,"66 Clinic Dr, New Britain, CT 06051, USA",41.65,-72.79,4/22/2020
+New Britain,Grandview Rehabilitation and Healthcare Center,160.00,36.00,7.00,2.00,"55 Grand St, New Britain, CT 06052, USA",41.66,-72.79,4/22/2020
+New Canaan,Waveny Care Center,76.00,15.00,3.00,1.00,"3 Farm Rd, New Canaan, CT 06840, USA",41.13,-73.49,4/22/2020
+New Haven,Grimes Center,114.00,58.00,2.00,0.00,"1354 Chapel St, New Haven, CT 06511, USA",41.31,-72.94,4/22/2020
+New Haven,RegalCare at New Haven,150.00,21.00,0.00,0.00,"181 Clifton St, New Haven, CT 06513, USA",41.31,-72.88,4/22/2020
+New Haven,The Mary Wade Home,94.00,25.00,6.00,2.00,"118 Clinton Ave, New Haven, CT 06513, USA",41.31,-72.89,4/22/2020
+New London,Harbor Village ,128.00,5.00,1.00,0.00,"78 Viets St, New London, CT 06320, USA",41.34,-72.11,4/22/2020
+New Milford,Candlewood Valley Health & Rehabilitation Center,148.00,2.00,1.00,0.00,"30 Park Ln E, New Milford, CT 06776, USA",41.60,-73.40,4/22/2020
+New Milford,Village Crest Center for Health & Rehabilitation,95.00,16.00,1.00,0.00,"19 Poplar St, New Milford, CT 06776, USA",41.58,-73.41,4/22/2020
+Newington,Bel Air Manor,71.00,2.00,1.00,1.00,"256 New Britain Ave, Newington, CT 06111, USA",41.68,-72.73,4/22/2020
+Newington,"Newington Rapid Recovery
+Rehab Center",180.00,46.00,3.00,3.00,"240 Church St, Newington, CT 06111, USA",41.67,-72.74,4/22/2020
+East Lyme,"Bride Brook Health &
+Rehabilitation Center",130.00,24.00,1.00,0.00,"23 Liberty Way, Niantic, CT 06357, USA",41.32,-72.24,4/22/2020
+North Haven,"Montowese Health &
+Rehabilitation Center",120.00,30.00,4.00,0.00,"163 Quinnipiac Ave, North Haven, CT 06473, USA",41.35,-72.86,4/22/2020
+Norwalk,"Autumn Lake Healthcare at
+Norwalk",150.00,20.00,9.00,3.00,"34 Midrocks Dr, Norwalk, CT 06851, USA",41.14,-73.41,4/22/2020
+Norwalk,Cassena Care at Norwalk ,150.00,30.00,3.00,0.00,"23 Prospect St, Norwalk, CT 06850, USA",41.11,-73.42,4/22/2020
+Norwalk,"Notre Dame Health and
+Rehabilitation Center ",60.00,2.00,0.00,0.00,"76 W Rocks Rd, Norwalk, CT 06851, USA",41.13,-73.41,4/22/2020
+Orange,Orange Health Care Center,60.00,2.00,0.00,0.00,"225 Boston Post Rd, Orange, CT 06477, USA",41.27,-73.00,4/22/2020
+Plainville,Apple Rehab Farmington Valley,160.00,17.00,2.00,1.00,"269 Farmington Ave, Plainville, CT 06062, USA",41.69,-72.85,4/22/2020
+Portland,Portland Care and Rehabilitation,65.00,20.00,5.00,2.00,"333 Main St, Portland, CT 06480, USA",41.58,-72.64,4/22/2020
+Redding,Ridge Crest at Meadow Ridge,62.00,6.00,5.00,0.00,"100 Redding Rd, Redding, CT 06896, USA",41.26,-73.43,4/22/2020
+Ridgefield,Laurel Ridge Health Care Center,126.00,26.00,4.00,1.00,"642 Danbury Rd, Ridgefield, CT 06877, USA",41.32,-73.47,4/22/2020
+Rocky Hill,60 West,95.00,21.00,2.00,0.00,"60 West St, Rocky Hill, CT 06067, USA",41.65,-72.64,4/22/2020
+Rocky Hill,Apple Rehab Rocky Hill ,120.00,56.00,8.00,2.00,"45 Elm St, Rocky Hill, CT 06067, USA",41.67,-72.64,4/22/2020
+Rocky Hill,Maple View Health & Rehabilitation Center,120.00,21.00,9.00,1.00,"856 Maple St, Rocky Hill, CT 06067, USA",41.67,-72.67,4/22/2020
+Seymour,Shady Knoll Health Center,128.00,54.00,14.00,1.00,"41 Skokorat St, Seymour, CT 06483, USA",41.40,-73.06,4/22/2020
+Sharon,Sharon Health Care Center,88.00,47.00,1.00,0.00,"27 Hospital Hill Rd, Sharon, CT 06069, USA",41.88,-73.48,4/22/2020
+Shelton,Apple Rehab Shelton Lakes,106.00,50.00,14.00,3.00,"5 Lake Rd, Shelton, CT 06484, USA",41.31,-73.11,4/22/2020
+Shelton,"Bishop-Wicke Health and
+Rehabilitation",120.00,27.00,15.00,7.00,"584 Long Hill Ave, Shelton, CT 06484, USA",41.28,-73.10,4/22/2020
+Shelton,Gardner Heights Health Care Center,130.00,60.00,21.00,2.00,"172 Rocky Rest Rd, Shelton, CT 06484, USA",41.29,-73.10,4/22/2020
+Shelton,Hewitt Health & Rehabilitation Center,120.00,28.00,2.00,0.00,"45 Maltby St, Shelton, CT 06484, USA",41.31,-73.09,4/22/2020
+Simsbury,McLean Health Center,89.00,19.00,1.00,0.00,"760 Hopmeadow St UNIT 208, Simsbury, CT 06070, USA",41.88,-72.80,4/22/2020
+Southbury,Lutheran Home of Southbury,120.00,33.00,7.00,2.00,"990 Main St N, Southbury, CT 06488, USA",41.50,-73.21,4/22/2020
+Southington,Summit at Plantsville,150.00,16.00,4.00,1.00,"261 Summit St, Plantsville, CT 06479, USA",41.59,-72.89,4/22/2020
+Fairfield,RegalCare at Southport,120.00,22.00,3.00,0.00,"930 Mill Hill Terrace, Southport, CT 06890, USA",41.15,-73.29,4/22/2020
+Stafford , Evergreen Health Care Center,180.00,42.00,14.00,2.00,"205 Chestnut Hill Rd, Stafford Springs, CT 06076, USA",41.98,-72.39,4/22/2020
+Stamford,Cassena Care at Stamford,156.00,40.00,2.00,4.00,"53 Courtland Ave, Stamford, CT 06902, USA",41.06,-73.51,4/22/2020
+Stamford,Edgehill Health Center,46.00,21.00,6.00,1.00,"122 Palmer Hill Rd, Stamford, CT 06902, USA",41.06,-73.57,4/22/2020
+Stamford,Long Ridge Post-Acute Care,120.00,33.00,2.00,1.00,"710 Long Ridge Rd, Stamford, CT 06902, USA",41.09,-73.56,4/22/2020
+Stamford,St. Camillus Center,124.00,33.00,8.00,0.00,"494 Elm St, Stamford, CT 06902, USA",41.05,-73.53,4/22/2020
+Stamford,The Villa at Stamford,128.00,20.00,4.00,0.00,"88 Rock Rimmon Rd, Stamford, CT 06903, USA",41.14,-73.56,4/22/2020
+Stratford,Lord Chamberlain Nursing and Rehabilitation Center,190.00,37.00,14.00,4.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,4/22/2020
+Suffield,Suffield House,128.00,50.00,7.00,4.00,"1 Canal Rd, Suffield, CT 06078, USA",41.98,-72.61,4/22/2020
+Torrington,Litchfield Woods,160.00,77.00,6.00,2.00,"255 Roberts St, Torrington, CT 06790, USA",41.81,-73.14,4/22/2020
+Torrington,RegalCare at Torrington ,75.00,20.00,1.00,0.00,"80 Fern Dr, Torrington, CT 06790, USA",41.81,-73.11,4/22/2020
+Torrington,Valerie Manor,151.00,21.00,1.00,2.00,"1360 Torringford St, Torrington, CT 06790, USA",41.83,-73.08,4/22/2020
+Torrington,Wolcott Hall Nursing Center,60.00,12.00,1.00,0.00,"215 Forest St, Torrington, CT 06790, USA",41.81,-73.13,4/22/2020
+Trumbull,Maefair Health Care Center,134.00,25.00,6.00,2.00,"21 Maefair Ct, Trumbull, CT 06611, USA",41.24,-73.19,4/22/2020
+Trumbull,St. Joseph's Center,269.00,39.00,5.00,5.00,"6448 Main St, Trumbull, CT 06611, USA",41.28,-73.23,4/22/2020
+Vernon,Fox Hill Center,150.00,36.00,3.00,0.00,"1253 Hartford Turnpike, Vernon, CT 06066, USA",41.86,-72.44,4/22/2020
+Wallingford,Quinnipiac Valley Center,180.00,23.00,2.00,0.00,"55 Kondracki Ln, Wallingford, CT 06492, USA",41.43,-72.81,4/22/2020
+Wallingford,Regency House Nursing and Rehabilitation Center ,130.00,19.00,2.00,0.00,"181 E Main St, Wallingford, CT 06492, USA",41.45,-72.80,4/22/2020
+Wallingford,Skyview Rehab and Nursing,97.00,7.00,0.00,0.00,"35 Marc Dr, Wallingford, CT 06492, USA",41.45,-72.85,4/22/2020
+Waterbury,Abbott Terrace Health Center,205.00,114.00,22.00,7.00,"44 Abbott Terrace, Waterbury, CT 06702, USA",41.56,-73.04,4/22/2020
+Waterbury,Autumn Lake Healthcare At Bucks Hill,90.00,1.00,0.00,0.00,"2817 N Main St, Waterbury, CT 06704, USA",41.59,-73.03,4/22/2020
+Waterbury,RegalCare at Waterbury,120.00,25.00,3.00,0.00,"177 Whitewood Rd, Waterbury, CT 06708, USA",41.58,-73.08,4/22/2020
+Waterbury,Waterbury Gardens Nursing and Rehabilitation ,150.00,38.00,5.00,1.00,"128 Cedar Ave, Waterbury, CT 06705, USA",41.55,-73.00,4/22/2020
+Waterbury ,Grove Manor Nursing Home,60.00,2.00,0.00,0.00,"145 Grove St, Waterbury, CT 06710, USA",41.56,-73.04,4/22/2020
+Waterford,Bayview Health Care,127.00,32.00,3.00,0.00,"301 Rope Ferry Rd, Waterford, CT 06385, USA",41.33,-72.17,4/22/2020
+Waterford,New London Sub-Acute and Nursing ,120.00,32.00,1.00,0.00,"88 Clark Ln, Waterford, CT 06385, USA",41.35,-72.13,4/22/2020
+Watertown,Apple Rehab Watertown,110.00,1.00,0.00,0.00,"35 Bunker Hill Rd, Watertown, CT 06795, USA",41.58,-73.10,4/22/2020
+West Hartford," Hebrew Center for Health and
+Rehabilitation ",257.00,17.00,2.00,1.00,"1 Abrahms Blvd, West Hartford, CT 06117, USA",41.80,-72.73,4/22/2020
+West Hartford, Hughes Health and Rehabilitation,170.00,14.00,5.00,2.00,"29 Highland St, West Hartford, CT 06119, USA",41.77,-72.72,4/22/2020
+West Hartford, Saint Mary Home ,256.00,22.00,4.00,3.00,"2021 Albany Ave, West Hartford, CT 06117, USA",41.78,-72.73,4/22/2020
+West Hartford, The Reservoir ,75.00,6.00,0.00,0.00,"1 Emily Way, West Hartford, CT 06107, USA",41.74,-72.78,4/22/2020
+West Hartford, West Hartford Health and Rehabilitation Center ,160.00,18.00,4.00,1.00,"130 Loomis Dr, West Hartford, CT 06107, USA",41.77,-72.74,4/22/2020
+West Haven,Apple Rehab West Haven,90.00,29.00,1.00,1.00,"308 Savin Ave, West Haven, CT 06516, USA",41.26,-72.95,4/22/2020
+West Haven,RegalCare at West Haven,98.00,10.00,2.00,0.00,"310 Terrace Ave, West Haven, CT 06516, USA",41.28,-72.97,4/22/2020
+Westport,Westport Rehabilitation Complex,99.00,15.00,4.00,4.00,"1 Burr Rd, Westport, CT 06880, USA",41.14,-73.37,4/22/2020
+Wilton,Wilton Meadows Health Care Center,148.00,7.00,6.00,12.00,"439 Danbury Rd, Wilton, CT 06897, USA",41.22,-73.43,4/22/2020
+Windsor,Kimberly Hall North,150.00,36.00,8.00,26.00,"1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,4/22/2020
+Windsor,Kimberly Hall South,180.00,25.00,1.00,0.00,"South, 1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,4/22/2020
+Windsor,Windsor Health and Rehabilitation Center,108.00,43.00,9.00,1.00,"581 Poquonock Ave, Windsor, CT 06095, USA",41.87,-72.66,4/22/2020
+Woodbridge,The Willows,90.00,59.00,2.00,0.00,"225 Amity Rd, Woodbridge, CT 06525, USA",41.34,-72.98,4/22/2020
+Avon,Apple Rehab Avon,60.00,12.00,3.00,0.00,"220 Scoville Rd, Avon, CT 06001, USA",41.78,-72.86,4/29/2020
+Avon,Avon Health Center,120.00,1.00,0.00,0.00,"652 W Avon Rd, Avon, CT 06001, USA",41.77,-72.86,4/29/2020
+Berlin,Ledgecrest Health Care,60.00,29.00,1.00,1.00,"154 Kensington Rd, Berlin, CT 06037, USA",41.63,-72.77,4/29/2020
+Bethel,Bethel Health Care Center,161.00,38.00,7.00,3.00,"13 Park Lawn Dr, Bethel, CT 06801, USA",41.42,-73.40,4/29/2020
+Bloomfield,Bloomfield Center for Nursing and Rehabilitation,120.00,20.00,7.00,7.00,"355 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.71,4/29/2020
+Bloomfield,Caleb Hitchcock Health Center,60.00,4.00,1.00,0.00,"10 Loeffler Rd, Bloomfield, CT 06002, USA",41.83,-72.76,4/29/2020
+Bloomfield,Seabury,72.00,12.00,4.00,0.00,"200 Seabury Dr, Bloomfield, CT 06002, USA",41.83,-72.71,4/29/2020
+Bloomfield,Touchpoints at Bloomfield,150.00,48.00,10.00,2.00,"140 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.70,4/29/2020
+Branford,Branford Hills Health Care Center,190.00,91.00,11.00,1.00,"189 Alps Rd #4771, Branford, CT 06405, USA",41.27,-72.85,4/29/2020
+Bridgeport,Jewish Senior Services,294.00,41.00,9.00,1.00,"4200 Park Ave, Bridgeport, CT 06604, USA",41.21,-73.23,4/29/2020
+Bridgeport,Northbridge Healthcare Center,145.00,34.00,7.00,8.00,"2875 Main St, Bridgeport, CT 06606, USA",41.20,-73.20,4/29/2020
+Bridgeport,Springs at Watermark 3030 Park,23.00,8.00,2.00,1.00,"3030 Park Ave, Bridgeport, CT 06604, USA",41.20,-73.22,4/29/2020
+Bristol,Countryside Manor of Bristol,90.00,41.00,16.00,0.00,"1660 Stafford Ave, Bristol, CT 06010, USA",41.72,-72.91,4/29/2020
+Bristol,Ingraham Manor,128.00,1.00,0.00,1.00,"400 N Main St, Bristol, CT 06010, USA",41.68,-72.95,4/29/2020
+Bristol,Pines At Bristol Center for Nursing & Rehabilitation,132.00,1.00,0.00,0.00,"61 Bellevue Ave, Bristol, CT 06010, USA",41.68,-72.94,4/29/2020
+Bristol,Sheridan Woods Health Care Center,146.00,72.00,25.00,3.00,"321 Stonecrest Dr, Bristol, CT 06010, USA",41.68,-72.92,4/29/2020
+Canaan,Geer Nursing And Rehabilitation Center,120.00,1.00,0.00,0.00,"99 S Canaan Rd, North Canaan, CT 06018, USA",42.01,-73.33,4/29/2020
+Canton,Cherry Brook Health Care Center,100.00,53.00,14.00,2.00,"102 Dyer Ave, Canton, CT 06019, USA",41.83,-72.92,4/29/2020
+Cheshire,Elim Park Baptist Home,90.00,31.00,5.00,0.00,"150 Cook Hill Rd, Cheshire, CT 06410, USA",41.47,-72.90,4/29/2020
+Chester,Aaron Manor Nursing and Rehabilitation,60.00,25.00,7.00,0.00,"3 S Wig Hill Rd, Chester, CT 06412, USA",41.40,-72.48,4/29/2020
+Cromwell,Apple Rehab Cromwell,85.00,19.00,2.00,0.00,"156 Berlin Rd, Cromwell, CT 06416, USA",41.61,-72.71,4/29/2020
+Cromwell,Autumn Lake Healthcare At Cromwell,175.00,14.00,2.00,1.00,"385 Main St, Cromwell, CT 06416, USA",41.60,-72.65,4/29/2020
+Danbury,Filosa Nursing & Rehabilitation,64.00,2.00,0.00,0.00,"13 Hakim St, Danbury, CT 06810, USA",41.40,-73.47,4/29/2020
+Danbury,Glen Hill Center,100.00,2.00,0.00,1.00,"1 Glen Hill Rd, Danbury, CT 06811, USA",41.41,-73.45,4/29/2020
+Danbury,Hancock Hall,96.00,1.00,1.00,0.00,"31 Staples St, Danbury, CT 06810, USA",41.40,-73.47,4/29/2020
+Danbury,Saint John Paul II Center,141.00,64.00,20.00,2.00,"33 Lincoln Ave, Danbury, CT 06810, USA",41.39,-73.45,4/29/2020
+Danbury,Western Rehabilitation Care Center,120.00,33.00,11.00,4.00,"107 Osborne St, Danbury, CT 06810, USA",41.40,-73.44,4/29/2020
+East Hartford,Riverside Health & Rehabilitation Center,345.00,125.00,24.00,15.00,"745 Main St, East Hartford, CT 06108, USA",41.77,-72.65,4/29/2020
+East Haven,Apple Rehab Laurel Woods,120.00,17.00,1.00,2.00,"451 N High St, East Haven, CT 06512, USA",41.29,-72.87,4/29/2020
+East Haven,Whispering Pines,90.00,50.00,11.00,12.00,"38 Talmadge Ave, East Haven, CT 06512, USA",41.26,-72.86,4/29/2020
+East Windsor,Fresh River Healthcare,140.00,23.00,1.00,2.00,"96 Prospect Hill Rd, East Windsor, CT 06088, USA",41.93,-72.61,4/29/2020
+Enfield,Parkway Pavilion Health and Rehabilitation Center,130.00,93.00,12.00,2.00,"1157 Enfield St, Enfield, CT 06082, USA",41.99,-72.59,4/29/2020
+Fairfield,Cambridge Health and Rehabilitation Center,160.00,33.00,8.00,3.00,"2428 Easton Turnpike, Fairfield, CT 06825, USA",41.21,-73.25,4/29/2020
+Fairfield,Carolton Chronic & Convalescent,229.00,36.00,9.00,0.00,"400 Mill Plain Rd, Fairfield, CT 06824, USA",41.15,-73.27,4/29/2020
+Fairfield,Ludlowe Center for Health & Rehabilitation,144.00,41.00,7.00,11.00,"118 Jefferson St, Fairfield, CT 06825, USA",41.22,-73.24,4/29/2020
+Farmington,Touchpoints at Farmington,105.00,79.00,9.00,4.00,"20 Scott Swamp Rd, Farmington, CT 06032, USA",41.71,-72.85,4/29/2020
+Glastonbury,Glastonbury Health Care Center,105.00,43.00,14.00,5.00,"1175 Hebron Ave, Glastonbury, CT 06033, USA",41.72,-72.57,4/29/2020
+Glastonbury,Salmon Brook Rehab and Nursing,130.00,27.00,11.00,3.00,"72 Salmon Brook Dr, Glastonbury, CT 06033, USA",41.72,-72.60,4/29/2020
+Greenwich,Greenwich Woods,217.00,27.00,6.00,2.00,"1165 King St, Greenwich, CT 06831, USA",41.06,-73.69,4/29/2020
+Greenwich,Nathaniel Witherall,202.00,44.00,6.00,1.00,"70 Parsonage Rd, Greenwich, CT 06830, USA",41.06,-73.63,4/29/2020
+Greenwich,RegalCare at Greenwich,75.00,5.00,2.00,0.00,"1188 King St, Greenwich, CT 06831, USA",41.06,-73.70,4/29/2020
+Groton,Mystic Healthcare & Rehabilitation Center,100.00,38.00,5.00,2.00,"475 High St, Mystic, CT 06355, USA",41.36,-71.98,4/29/2020
+Guilford,Apple Rehab Guilford,90.00,19.00,0.00,1.00,"10 Boston Post Rd, Guilford, CT 06437, USA",41.29,-72.65,4/29/2020
+Guilford,Guilford House,75.00,1.00,0.00,0.00,"109 W Lake Ave, Guilford, CT 06437, USA",41.31,-72.72,4/29/2020
+Hamden,Arden House,360.00,42.00,9.00,0.00,"850 Mix Ave, Hamden, CT 06514, USA",41.38,-72.92,4/29/2020
+Hamden,Hamden Rehabilitation & Health Care Center,153.00,39.00,5.00,1.00,"1270 Sherman Ave, Hamden, CT 06514, USA",41.39,-72.92,4/29/2020
+Hamden,Whitney Rehabilitation Care Center,150.00,37.00,3.00,0.00,"2798 Whitney Ave, Hamden, CT 06518, USA",41.40,-72.90,4/29/2020
+Hartford,Avery Nursing Home/Noble Building,199.00,15.00,0.00,0.00,"550 Avery Heights, Hartford, CT 06106, USA",41.73,-72.71,4/29/2020
+Hartford,Chelsea Place,234.00,50.00,13.00,8.00,"25 Lorraine St, Hartford, CT 06105, USA",41.77,-72.71,4/29/2020
+Hartford,Parkville Care Center,150.00,17.00,5.00,0.00,"5 Greenwood St, Hartford, CT 06106, USA",41.75,-72.71,4/29/2020
+Hartford,Trinity Hill Care Center,144.00,65.00,6.00,1.00,"151 Hillside Ave, Hartford, CT 06106, USA",41.75,-72.70,4/29/2020
+Madison,Madison House,89.00,25.00,4.00,1.00,"34 Wildwood Ave, Madison, CT 06443, USA",41.29,-72.64,4/29/2020
+Manchester,Crestfield Rehabilitation Center,155.00,20.00,6.00,0.00,"565 Vernon St, Manchester, CT 06042, USA",41.80,-72.49,4/29/2020
+Manchester,Manchester Manor Health Care Center,126.00,19.00,4.00,1.00,"385 W Center St, Manchester, CT 06040, USA",41.77,-72.55,4/29/2020
+Manchester,Touchpoints at Manchester,131.00,43.00,13.00,4.00,"333 Bidwell St, Manchester, CT 06040, USA",41.76,-72.55,4/29/2020
+Manchester,Westside Care Center,162.00,9.00,0.00,1.00,"349 Bidwell St, Manchester, CT 06040, USA",41.76,-72.54,4/29/2020
+Marlborough,Marlborough Health Care Center,120.00,13.00,1.00,0.00,"85 Stage Harbor Rd, Marlborough, CT 06447, USA",41.65,-72.48,4/29/2020
+Meriden,Apple Rehab Coccomo,100.00,26.00,6.00,2.00,"33 Cone Ave, Meriden, CT 06450, USA",41.52,-72.75,4/29/2020
+Meriden,Silver Springs Care Center,159.00,33.00,0.00,0.00,"33 Roy St, Meriden, CT 06450, USA",41.53,-72.80,4/29/2020
+Meriden,The Curtis Home,60.00,10.00,6.00,0.00,"380 Crown St, Meriden, CT 06450, USA",41.53,-72.80,4/29/2020
+Middletown,Apple Rehab Middletown,70.00,12.00,3.00,3.00,"600 Highland Ave, Middletown, CT 06457, USA",41.53,-72.66,4/29/2020
+Middletown,Middlesex Health Care Center,150.00,29.00,14.00,1.00,"100 Randolph Rd, Middletown, CT 06457, USA",41.54,-72.62,4/29/2020
+Middletown,Water's Edge Center for Health & Rehabilitation,150.00,26.00,2.00,1.00,"111 Church St, Middletown, CT 06457, USA",41.56,-72.65,4/29/2020
+Milford,Golden Hill Rehab Pavilion,120.00,80.00,17.00,5.00,"2028 Bridgeport Ave, Milford, CT 06460, USA",41.22,-73.07,4/29/2020
+Milford,Milford Health and Rehabilitation Center,120.00,70.00,15.00,0.00,"195 Platt St, Milford, CT 06460, USA",41.21,-73.02,4/29/2020
+Milford,West River Rehab Center,120.00,16.00,1.00,1.00,"245 Orange Ave, Milford, CT 06461, USA",41.24,-73.05,4/29/2020
+Naugatuck,Beacon Brook Health Center,126.00,5.00,0.00,0.00,"89 Weid Dr, Naugatuck, CT 06770, USA",41.47,-73.03,4/29/2020
+Naugatuck,Glendale Center,120.00,32.00,0.00,0.00,"4 Hazel Ave, Naugatuck, CT 06770, USA",41.47,-73.04,4/29/2020
+New Britain,Autumn Lake Healthcare At New Britain,282.00,40.00,3.00,1.00,"400 Brittany Farms Rd, New Britain, CT 06053, USA",41.71,-72.77,4/29/2020
+New Britain,Cassena Care at New Britain,90.00,8.00,0.00,1.00,"66 Clinic Dr, New Britain, CT 06051, USA",41.65,-72.79,4/29/2020
+New Britain,Grandview Rehabilitation and Healthcare Center,160.00,36.00,14.00,3.00,"55 Grand St, New Britain, CT 06052, USA",41.66,-72.79,4/29/2020
+New Canaan,Waveny Care Center,76.00,29.00,4.00,1.00,"3 Farm Rd, New Canaan, CT 06840, USA",41.13,-73.49,4/29/2020
+New Haven,Advanced Center For Nursing And Rehabilitation,226.00,9.00,0.00,0.00,"169 Davenport Ave, New Haven, CT 06519, USA",41.30,-72.94,4/29/2020
+New Haven,Grimes Center,114.00,58.00,3.00,0.00,"1354 Chapel St, New Haven, CT 06511, USA",41.31,-72.94,4/29/2020
+New Haven,RegalCare at New Haven,150.00,29.00,4.00,0.00,"181 Clifton St, New Haven, CT 06513, USA",41.31,-72.88,4/29/2020
+New Haven,The Mary Wade Home,94.00,27.00,10.00,3.00,"118 Clinton Ave, New Haven, CT 06513, USA",41.31,-72.89,4/29/2020
+New London,Harbor Village,128.00,5.00,1.00,0.00,"78 Viets St, New London, CT 06320, USA",41.34,-72.11,4/29/2020
+New Milford,Candlewood Valley Health & Rehabilitation Center,148.00,2.00,2.00,0.00,"30 Park Ln E, New Milford, CT 06776, USA",41.60,-73.40,4/29/2020
+New Milford,Village Crest Center for Health & Rehabilitation,95.00,35.00,4.00,0.00,"19 Poplar St, New Milford, CT 06776, USA",41.58,-73.41,4/29/2020
+Newington,Bel Air Manor,71.00,2.00,2.00,1.00,"256 New Britain Ave, Newington, CT 06111, USA",41.68,-72.73,4/29/2020
+Newington,Jefferson House,104.00,11.00,0.00,0.00,"1 John H Stewart Dr, Newington, CT 06111, USA",41.70,-72.71,4/29/2020
+Newington,Newington Rapid Recovery Rehab Center,180.00,62.00,11.00,4.00,"240 Church St, Newington, CT 06111, USA",41.67,-72.74,4/29/2020
+Newtown,Newtown Rehabilitation & Health Care Center,154.00,5.00,0.00,0.00,"139 Toddy Hill Rd, Newtown, CT 06470, USA",41.38,-73.26,4/29/2020
+East Lyme,Bride Brook Health & Rehabilitation Center,130.00,54.00,4.00,0.00,"23 Liberty Way, Niantic, CT 06357, USA",41.32,-72.24,4/29/2020
+North Haven,Montowese Health & Rehabilitation Center,120.00,48.00,8.00,1.00,"163 Quinnipiac Ave, North Haven, CT 06473, USA",41.35,-72.86,4/29/2020
+Norwalk,Autumn Lake Healthcare at Norwalk,150.00,52.00,12.00,3.00,"34 Midrocks Dr, Norwalk, CT 06851, USA",41.14,-73.41,4/29/2020
+Norwalk,Cassena Care at Norwalk,150.00,43.00,4.00,0.00,"23 Prospect St, Norwalk, CT 06850, USA",41.11,-73.42,4/29/2020
+Norwalk,Notre Dame Health and Rehabilitation Center,60.00,2.00,0.00,0.00,"76 W Rocks Rd, Norwalk, CT 06851, USA",41.13,-73.41,4/29/2020
+Orange,Orange Health Care Center,60.00,22.00,1.00,0.00,"225 Boston Post Rd, Orange, CT 06477, USA",41.27,-73.00,4/29/2020
+Plainville,Apple Rehab Farmington Valley,160.00,21.00,6.00,1.00,"269 Farmington Ave, Plainville, CT 06062, USA",41.69,-72.85,4/29/2020
+Portland,Portland Care and Rehabilitation,65.00,22.00,6.00,2.00,"333 Main St, Portland, CT 06480, USA",41.58,-72.64,4/29/2020
+Redding,Ridge Crest at Meadow Ridge,62.00,9.00,6.00,1.00,"100 Redding Rd, Redding, CT 06896, USA",41.26,-73.43,4/29/2020
+Ridgefield,Laurel Ridge Health Care Center,126.00,26.00,6.00,1.00,"642 Danbury Rd, Ridgefield, CT 06877, USA",41.32,-73.47,4/29/2020
+Rocky Hill,60 West,95.00,24.00,4.00,0.00,"60 West St, Rocky Hill, CT 06067, USA",41.65,-72.64,4/29/2020
+Rocky Hill,Apple Rehab Rocky Hill,120.00,73.00,12.00,2.00,"45 Elm St, Rocky Hill, CT 06067, USA",41.67,-72.64,4/29/2020
+Rocky Hill,John L. Levitow Health Care Center,125.00,4.00,0.00,0.00,"Connecticut, USA",41.60,-73.09,4/29/2020
+Rocky Hill,Maple View Health & Rehabilitation Center,120.00,29.00,8.00,1.00,"856 Maple St, Rocky Hill, CT 06067, USA",41.67,-72.67,4/29/2020
+Seymour,Shady Knoll Health Center,128.00,64.00,23.00,1.00,"41 Skokorat St, Seymour, CT 06483, USA",41.40,-73.06,4/29/2020
+Sharon,Sharon Health Care Center,88.00,7.00,0.00,0.00,"27 Hospital Hill Rd, Sharon, CT 06069, USA",41.88,-73.48,4/29/2020
+Shelton,Apple Rehab Shelton Lakes,106.00,50.00,15.00,3.00,"5 Lake Rd, Shelton, CT 06484, USA",41.31,-73.11,4/29/2020
+Shelton,Bishop-Wicke Health and Rehabilitation,120.00,27.00,16.00,8.00,"584 Long Hill Ave, Shelton, CT 06484, USA",41.28,-73.10,4/29/2020
+Shelton,Gardner Heights Health Care Center,130.00,55.00,21.00,4.00,"172 Rocky Rest Rd, Shelton, CT 06484, USA",41.29,-73.10,4/29/2020
+Shelton,Hewitt Health & Rehabilitation Center,120.00,42.00,9.00,2.00,"45 Maltby St, Shelton, CT 06484, USA",41.31,-73.09,4/29/2020
+Simsbury,McLean Health Center,89.00,24.00,3.00,0.00,"75 Great Pond Rd, Simsbury, CT 06070, USA",41.89,-72.83,4/29/2020
+Southbury,Lutheran Home of Southbury,120.00,40.00,10.00,2.00,"990 Main St N, Southbury, CT 06488, USA",41.50,-73.21,4/29/2020
+Southington,Summit at Plantsville,150.00,35.00,7.00,1.00,"261 Summit St, Plantsville, CT 06479, USA",41.59,-72.89,4/29/2020
+Fairfield,RegalCare at Southport,120.00,35.00,4.00,0.00,"930 Mill Hill Terrace, Southport, CT 06890, USA",41.15,-73.29,4/29/2020
+Stafford,Evergreen Health Care Center,180.00,47.00,14.00,1.00,"205 Chestnut Hill Rd, Stafford Springs, CT 06076, USA",41.98,-72.39,4/29/2020
+Stamford,Cassena Care at Stamford,156.00,63.00,8.00,5.00,"53 Courtland Ave, Stamford, CT 06902, USA",41.06,-73.51,4/29/2020
+Stamford,Edgehill Health Center,46.00,18.00,6.00,1.00,"122 Palmer Hill Rd, Stamford, CT 06902, USA",41.06,-73.57,4/29/2020
+Stamford,Long Ridge Post-Acute Care,120.00,49.00,6.00,1.00,"710 Long Ridge Rd, Stamford, CT 06902, USA",41.09,-73.56,4/29/2020
+Stamford,St. Camillus Center,124.00,37.00,9.00,2.00,"494 Elm St, Stamford, CT 06902, USA",41.05,-73.53,4/29/2020
+Stamford,The Villa at Stamford,128.00,22.00,4.00,0.00,"88 Rock Rimmon Rd, Stamford, CT 06903, USA",41.14,-73.56,4/29/2020
+Stratford,Lord Chamberlain Manor,60.00,4.00,0.00,0.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,4/29/2020
+Stratford,Lord Chamberlain Nursing and Rehabilitation Center,190.00,50.00,21.00,4.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,4/29/2020
+Suffield,Suffield House,128.00,50.00,8.00,6.00,"1 Canal Rd, Suffield, CT 06078, USA",41.98,-72.61,4/29/2020
+Torrington,Litchfield Woods,160.00,114.00,25.00,2.00,"255 Roberts St, Torrington, CT 06790, USA",41.81,-73.14,4/29/2020
+Torrington,RegalCare at Torrington,75.00,29.00,6.00,0.00,"80 Fern Dr, Torrington, CT 06790, USA",41.81,-73.11,4/29/2020
+Torrington,Valerie Manor,151.00,34.00,3.00,2.00,"1360 Torringford St, Torrington, CT 06790, USA",41.83,-73.08,4/29/2020
+Torrington,Wolcott Hall Nursing Center,60.00,13.00,3.00,1.00,"215 Forest St, Torrington, CT 06790, USA",41.81,-73.13,4/29/2020
+Trumbull,Maefair Health Care Center,134.00,65.00,14.00,5.00,"21 Maefair Ct, Trumbull, CT 06611, USA",41.24,-73.19,4/29/2020
+Trumbull,St. Joseph's Center,269.00,74.00,12.00,8.00,"6448 Main St, Trumbull, CT 06611, USA",41.28,-73.23,4/29/2020
+Vernon,Fox Hill Center,150.00,52.00,6.00,0.00,"1253 Hartford Turnpike, Vernon, CT 06066, USA",41.86,-72.44,4/29/2020
+Wallingford,Quinnipiac Valley Center,180.00,42.00,5.00,0.00,"55 Kondracki Ln, Wallingford, CT 06492, USA",41.43,-72.81,4/29/2020
+Wallingford,Regency House Nursing and Rehabilitation Center,130.00,38.00,9.00,1.00,"181 E Main St, Wallingford, CT 06492, USA",41.45,-72.80,4/29/2020
+Wallingford,Skyview Rehab and Nursing,97.00,16.00,0.00,0.00,"35 Marc Dr, Wallingford, CT 06492, USA",41.45,-72.85,4/29/2020
+Waterbury,Abbott Terrace Health Center,205.00,120.00,30.00,7.00,"44 Abbott Terrace, Waterbury, CT 06702, USA",41.56,-73.04,4/29/2020
+Waterbury,Autumn Lake Healthcare At Bucks Hill,90.00,9.00,2.00,0.00,"2817 N Main St, Waterbury, CT 06704, USA",41.59,-73.03,4/29/2020
+Waterbury,Cheshire House Health Care Facility & Rehabilitation Center,75.00,18.00,1.00,0.00,"3396 E Main St, Waterbury, CT 06705, USA",41.54,-72.98,4/29/2020
+Waterbury,RegalCare at Waterbury,120.00,44.00,7.00,0.00,"177 Whitewood Rd, Waterbury, CT 06708, USA",41.58,-73.08,4/29/2020
+Waterbury,Waterbury Gardens Nursing and Rehabilitation,150.00,38.00,10.00,1.00,"128 Cedar Ave, Waterbury, CT 06705, USA",41.55,-73.00,4/29/2020
+Waterbury,Grove Manor Nursing Home,60.00,2.00,0.00,0.00,"145 Grove St, Waterbury, CT 06710, USA",41.56,-73.04,4/29/2020
+Waterford,Bayview Health Care,127.00,36.00,7.00,1.00,"301 Rope Ferry Rd, Waterford, CT 06385, USA",41.33,-72.17,4/29/2020
+Waterford,New London Sub-Acute and Nursing,120.00,44.00,1.00,0.00,"31 Vauxhall St, New London, CT 06320, USA",41.36,-72.10,4/29/2020
+Watertown,Apple Rehab Watertown,110.00,1.00,1.00,0.00,"35 Bunker Hill Rd, Watertown, CT 06795, USA",41.58,-73.10,4/29/2020
+West Hartford,Hebrew Center for Health and Rehabilitation,257.00,30.00,3.00,2.00,"1 Abrahms Blvd, West Hartford, CT 06117, USA",41.80,-72.73,4/29/2020
+West Hartford,Hughes Health and Rehabilitation,170.00,32.00,6.00,5.00,"29 Highland St, West Hartford, CT 06119, USA",41.77,-72.72,4/29/2020
+West Hartford,Saint Mary Home,256.00,32.00,6.00,6.00,"2021 Albany Ave, West Hartford, CT 06117, USA",41.78,-72.73,4/29/2020
+West Hartford,The Reservoir,75.00,8.00,0.00,0.00,"Risley Reservoir, Connecticut, USA",41.80,-72.47,4/29/2020
+West Hartford,West Hartford Health and Rehabilitation Center,160.00,23.00,6.00,4.00,"130 Loomis Dr, West Hartford, CT 06107, USA",41.77,-72.74,4/29/2020
+West Haven,Apple Rehab West Haven,90.00,50.00,4.00,1.00,"308 Savin Ave, West Haven, CT 06516, USA",41.26,-72.95,4/29/2020
+West Haven,RegalCare at West Haven,98.00,16.00,3.00,0.00,"310 Terrace Ave, West Haven, CT 06516, USA",41.28,-72.97,4/29/2020
+Westport,Westport Rehabilitation Complex,99.00,23.00,5.00,2.00,"1 Burr Rd, Westport, CT 06880, USA",41.14,-73.37,4/29/2020
+Wilton,Wilton Meadows Health Care Center,148.00,8.00,7.00,14.00,"439 Danbury Rd, Wilton, CT 06897, USA",41.22,-73.43,4/29/2020
+Windham,St. Joseph's Living Center,120.00,9.00,0.00,0.00,"14 Club Rd, Windham, CT 06280, USA",41.71,-72.19,4/29/2020
+Windsor,Kimberly Hall North,150.00,55.00,13.00,26.00,"1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,4/29/2020
+Windsor,Kimberly Hall South,180.00,49.00,6.00,0.00,"South, 1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,4/29/2020
+Windsor,Windsor Health and Rehabilitation Center,108.00,52.00,14.00,3.00,"581 Poquonock Ave, Windsor, CT 06095, USA",41.87,-72.66,4/29/2020
+Woodbridge,The Willows,90.00,59.00,9.00,4.00,"225 Amity Rd, Woodbridge, CT 06525, USA",41.34,-72.98,4/29/2020
+Avon,Apple Rehab Avon,60.00,15.00,5.00,1.00,"220 Scoville Rd, Avon, CT 06001, USA",41.78,-72.86,5/7/2020
+Avon,Avon Health Center,120.00,10.00,0.00,0.00,"652 W Avon Rd, Avon, CT 06001, USA",41.77,-72.86,5/7/2020
+Berlin,Ledgecrest Health Care,60.00,30.00,3.00,1.00,"154 Kensington Rd, Berlin, CT 06037, USA",41.63,-72.77,5/7/2020
+Bethel,Bethel Health Care Center,161.00,45.00,8.00,3.00,"13 Park Lawn Dr, Bethel, CT 06801, USA",41.42,-73.40,5/7/2020
+Bloomfield,Caleb Hitchcock Health Center,60.00,5.00,1.00,0.00,"10 Loeffler Rd, Bloomfield, CT 06002, USA",41.83,-72.76,5/7/2020
+Bloomfield,Touchpoints at Bloomfield,150.00,51.00,11.00,2.00,"140 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.70,5/7/2020
+Bloomfield,Seabury,72.00,20.00,6.00,1.00,"200 Seabury Dr, Bloomfield, CT 06002, USA",41.83,-72.71,5/7/2020
+Bloomfield,Bloomfield Center for Nursing and Rehabilitation,120.00,20.00,9.00,7.00,"355 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.71,5/7/2020
+Branford,Branford Hills Health Care Center,190.00,93.00,18.00,1.00,"189 Alps Rd #4771, Branford, CT 06405, USA",41.27,-72.85,5/7/2020
+Bridgeport,Springs at Watermark 3030 Park,23.00,8.00,3.00,1.00,"3030 Park Ave, Bridgeport, CT 06604, USA",41.20,-73.22,5/7/2020
+Bridgeport,Jewish Senior Services,294.00,42.00,12.00,2.00,"4200 Park Ave, Bridgeport, CT 06604, USA",41.21,-73.23,5/7/2020
+Bridgeport,Northbridge Healthcare Center,145.00,36.00,7.00,6.00,"2875 Main St, Bridgeport, CT 06606, USA",41.20,-73.20,5/7/2020
+Bristol,Sheridan Woods Health Care Center,146.00,73.00,26.00,3.00,"321 Stonecrest Dr, Bristol, CT 06010, USA",41.68,-72.92,5/7/2020
+Bristol,Ingraham Manor,128.00,6.00,0.00,1.00,"400 N Main St, Bristol, CT 06010, USA",41.68,-72.95,5/7/2020
+Bristol,Countryside Manor of Bristol,90.00,49.00,17.00,1.00,"1660 Stafford Ave, Bristol, CT 06010, USA",41.72,-72.91,5/7/2020
+Bristol,Pines At Bristol Center for Nursing & Rehabilitation,132.00,18.00,0.00,0.00,"61 Bellevue Ave, Bristol, CT 06010, USA",41.68,-72.94,5/7/2020
+Canaan,Geer Nursing And Rehabilitation Center,120.00,1.00,0.00,0.00,"99 S Canaan Rd, North Canaan, CT 06018, USA",42.01,-73.33,5/7/2020
+Canton,Cherry Brook Health Care Center,100.00,59.00,17.00,3.00,"102 Dyer Ave, Canton, CT 06019, USA",41.83,-72.92,5/7/2020
+Cheshire,Cheshire Regional Rehab Center,85.00,1.00,0.00,0.00,"745 Highland Ave, Cheshire, CT 06410, USA",41.52,-72.90,5/7/2020
+Cheshire,Elim Park Baptist Home,90.00,34.00,7.00,0.00,"150 Cook Hill Rd, Cheshire, CT 06410, USA",41.47,-72.90,5/7/2020
+Chester,Chesterfields Health Care Center,60.00,0.00,0.00,1.00,"132 Main St, Chester, CT 06412, USA",41.40,-72.44,5/7/2020
+Chester,Aaron Manor Nursing and Rehabilitation,60.00,25.00,10.00,0.00,"3 S Wig Hill Rd, Chester, CT 06412, USA",41.40,-72.48,5/7/2020
+Cromwell,Apple Rehab Cromwell,85.00,32.00,3.00,1.00,"156 Berlin Rd, Cromwell, CT 06416, USA",41.61,-72.71,5/7/2020
+Cromwell,Autumn Lake Healthcare At Cromwell,175.00,54.00,2.00,2.00,"385 Main St, Cromwell, CT 06416, USA",41.60,-72.65,5/7/2020
+Danbury,Saint John Paul II Center,141.00,76.00,27.00,3.00,"33 Lincoln Ave, Danbury, CT 06810, USA",41.39,-73.45,5/7/2020
+Danbury,Glen Hill Center,100.00,12.00,0.00,1.00,"1 Glen Hill Rd, Danbury, CT 06811, USA",41.41,-73.45,5/7/2020
+Danbury,Western Rehabilitation Care Center,120.00,43.00,12.00,4.00,"107 Osborne St, Danbury, CT 06810, USA",41.40,-73.44,5/7/2020
+Danbury,Filosa Nursing & Rehabilitation,64.00,2.00,0.00,0.00,"13 Hakim St, Danbury, CT 06810, USA",41.40,-73.47,5/7/2020
+Danbury,Hancock Hall,96.00,1.00,1.00,0.00,"31 Staples St, Danbury, CT 06810, USA",41.40,-73.47,5/7/2020
+East Hartford,Riverside Health & Rehabilitation Center,345.00,104.00,29.00,18.00,"745 Main St, East Hartford, CT 06108, USA",41.77,-72.65,5/7/2020
+East Haven,Whispering Pines,90.00,52.00,11.00,13.00,"38 Talmadge Ave, East Haven, CT 06512, USA",41.26,-72.86,5/7/2020
+East Haven,Apple Rehab Laurel Woods,120.00,19.00,1.00,2.00,"451 N High St, East Haven, CT 06512, USA",41.29,-72.87,5/7/2020
+East Windsor,Fresh River Healthcare,140.00,36.00,1.00,4.00,"96 Prospect Hill Rd, East Windsor, CT 06088, USA",41.93,-72.61,5/7/2020
+Enfield,Parkway Pavilion Health and Rehabilitation Center,130.00,93.00,16.00,2.00,"1157 Enfield St, Enfield, CT 06082, USA",41.99,-72.59,5/7/2020
+Fairfield,Ludlowe Center for Health & Rehabilitation,144.00,42.00,9.00,14.00,"118 Jefferson St, Fairfield, CT 06825, USA",41.22,-73.24,5/7/2020
+Fairfield,Cambridge Health and Rehabilitation Center,160.00,35.00,10.00,9.00,"2428 Easton Turnpike, Fairfield, CT 06825, USA",41.21,-73.25,5/7/2020
+Fairfield,Carolton Chronic & Convalescent Hospital,229.00,47.00,12.00,1.00,"400 Mill Plain Rd, Fairfield, CT 06824, USA",41.15,-73.27,5/7/2020
+Farmington,Touchpoints at Farmington,105.00,80.00,13.00,3.00,"20 Scott Swamp Rd, Farmington, CT 06032, USA",41.71,-72.85,5/7/2020
+Glastonbury,Glastonbury Health Care Center,105.00,49.00,19.00,6.00,"1175 Hebron Ave, Glastonbury, CT 06033, USA",41.72,-72.57,5/7/2020
+Glastonbury,Salmon Brook Rehab and Nursing,130.00,30.00,12.00,4.00,"72 Salmon Brook Dr, Glastonbury, CT 06033, USA",41.72,-72.60,5/7/2020
+Granby,Meadowbrook of Granby,90.00,0.00,0.00,1.00,"350 Salmon Brook St, Granby, CT 06035, USA",41.97,-72.79,5/7/2020
+Greenwich,Greenwich Woods,217.00,28.00,7.00,3.00,"1165 King St, Greenwich, CT 06831, USA",41.06,-73.69,5/7/2020
+Greenwich,Nathaniel Witherall,202.00,45.00,8.00,1.00,"70 Parsonage Rd, Greenwich, CT 06830, USA",41.06,-73.63,5/7/2020
+Greenwich,RegalCare at Greenwich,75.00,5.00,2.00,0.00,"1188 King St, Greenwich, CT 06831, USA",41.06,-73.70,5/7/2020
+Groton,Mystic Healthcare & Rehabilitation Center,100.00,45.00,9.00,3.00,"475 High St, Mystic, CT 06355, USA",41.36,-71.98,5/7/2020
+Guilford,Apple Rehab Guilford,90.00,23.00,5.00,1.00,"10 Boston Post Rd, Guilford, CT 06437, USA",41.29,-72.65,5/7/2020
+Guilford,Guilford House,75.00,1.00,0.00,0.00,"109 W Lake Ave, Guilford, CT 06437, USA",41.31,-72.72,5/7/2020
+Hamden,Hamden Rehabilitation & Health Care Center,153.00,48.00,11.00,1.00,"1270 Sherman Ave, Hamden, CT 06514, USA",41.39,-72.92,5/7/2020
+Hamden,Whitney Rehabilitation Care Center,150.00,60.00,7.00,0.00,"2798 Whitney Ave, Hamden, CT 06518, USA",41.40,-72.90,5/7/2020
+Hamden,Whitney Center,59.00,0.00,1.00,0.00,"200 Leeder Hill Dr, Hamden, CT 06517, USA",41.35,-72.92,5/7/2020
+Hamden,Arden House,360.00,69.00,12.00,0.00,"850 Mix Ave, Hamden, CT 06514, USA",41.38,-72.92,5/7/2020
+Hartford,Avery Nursing Home/Noble Building,199.00,30.00,4.00,0.00,"550 Avery Heights, Hartford, CT 06106, USA",41.73,-72.71,5/7/2020
+Hartford,Trinity Hill Care Center,144.00,62.00,6.00,1.00,"151 Hillside Ave, Hartford, CT 06106, USA",41.75,-72.70,5/7/2020
+Hartford,Chelsea Place,234.00,62.00,16.00,8.00,"25 Lorraine St, Hartford, CT 06105, USA",41.77,-72.71,5/7/2020
+Hartford,Parkville Care Center,150.00,60.00,5.00,2.00,"5 Greenwood St, Hartford, CT 06106, USA",41.75,-72.71,5/7/2020
+Madison,Madison House,89.00,40.00,7.00,2.00,"34 Wildwood Ave, Madison, CT 06443, USA",41.29,-72.64,5/7/2020
+Manchester,Manchester Manor Health Care Center,126.00,19.00,6.00,1.00,"385 W Center St, Manchester, CT 06040, USA",41.77,-72.55,5/7/2020
+Manchester,Touchpoints at Manchester,131.00,47.00,14.00,4.00,"333 Bidwell St, Manchester, CT 06040, USA",41.76,-72.55,5/7/2020
+Manchester,Westside Care Center,162.00,49.00,0.00,3.00,"349 Bidwell St, Manchester, CT 06040, USA",41.76,-72.54,5/7/2020
+Manchester,Crestfield Rehabilitation Center,155.00,24.00,8.00,1.00,"565 Vernon St, Manchester, CT 06042, USA",41.80,-72.49,5/7/2020
+Marlborough,Marlborough Health Care Center,120.00,20.00,1.00,0.00,"85 Stage Harbor Rd, Marlborough, CT 06447, USA",41.65,-72.48,5/7/2020
+Meriden,Silver Springs Care Center,159.00,55.00,3.00,0.00,"33 Roy St, Meriden, CT 06450, USA",41.53,-72.80,5/7/2020
+Meriden,The Curtis Home,60.00,10.00,7.00,0.00,"380 Crown St, Meriden, CT 06450, USA",41.53,-72.80,5/7/2020
+Meriden,Apple Rehab Coccomo,100.00,30.00,8.00,5.00,"33 Cone Ave, Meriden, CT 06450, USA",41.52,-72.75,5/7/2020
+Meriden,Meriden Center,130.00,1.00,0.00,0.00,"845 Paddock Ave, Meriden, CT 06450, USA",41.51,-72.78,5/7/2020
+Middletown,Water's Edge Center for Health & Rehabilitation,150.00,30.00,5.00,4.00,"111 Church St, Middletown, CT 06457, USA",41.56,-72.65,5/7/2020
+Middletown,Apple Rehab Middletown,70.00,12.00,4.00,5.00,"600 Highland Ave, Middletown, CT 06457, USA",41.53,-72.66,5/7/2020
+Middletown,Middlesex Health Care Center,150.00,30.00,18.00,4.00,"100 Randolph Rd, Middletown, CT 06457, USA",41.54,-72.62,5/7/2020
+Milford,Milford Health and Rehabilitation Center,120.00,73.00,18.00,1.00,"195 Platt St, Milford, CT 06460, USA",41.21,-73.02,5/7/2020
+Milford,West River Rehab Center,120.00,18.00,3.00,1.00,"245 Orange Ave, Milford, CT 06461, USA",41.24,-73.05,5/7/2020
+Milford,Golden Hill Rehab Pavilion,120.00,82.00,17.00,6.00,"2028 Bridgeport Ave, Milford, CT 06460, USA",41.22,-73.07,5/7/2020
+Naugatuck,Beacon Brook Health Center,126.00,24.00,2.00,0.00,"89 Weid Dr, Naugatuck, CT 06770, USA",41.47,-73.03,5/7/2020
+Naugatuck,Glendale Center,120.00,32.00,3.00,0.00,"4 Hazel Ave, Naugatuck, CT 06770, USA",41.47,-73.04,5/7/2020
+New Britain,Grandview Rehabilitation and Healthcare Center,160.00,38.00,16.00,3.00,"55 Grand St, New Britain, CT 06052, USA",41.66,-72.79,5/7/2020
+New Britain,Cassena Care at New Britain,90.00,28.00,2.00,1.00,"66 Clinic Dr, New Britain, CT 06051, USA",41.65,-72.79,5/7/2020
+New Britain,Autumn Lake Healthcare At New Britain,282.00,67.00,5.00,1.00,"400 Brittany Farms Rd, New Britain, CT 06053, USA",41.71,-72.77,5/7/2020
+New Canaan,Waveny Care Center,76.00,43.00,5.00,2.00,"3 Farm Rd, New Canaan, CT 06840, USA",41.13,-73.49,5/7/2020
+New Haven,Advanced Center For Nursing And Rehabilitation,226.00,33.00,1.00,0.00,"169 Davenport Ave, New Haven, CT 06519, USA",41.30,-72.94,5/7/2020
+New Haven,RegalCare at New Haven,150.00,35.00,5.00,0.00,"181 Clifton St, New Haven, CT 06513, USA",41.31,-72.88,5/7/2020
+New Haven,The Mary Wade Home,94.00,33.00,12.00,6.00,"118 Clinton Ave, New Haven, CT 06513, USA",41.31,-72.89,5/7/2020
+New Haven,Grimes Center,114.00,58.00,3.00,0.00,"1354 Chapel St, New Haven, CT 06511, USA",41.31,-72.94,5/7/2020
+Newington,Jefferson House,104.00,21.00,0.00,1.00,"1 John H Stewart Dr, Newington, CT 06111, USA",41.70,-72.71,5/7/2020
+Newington,Newington Rapid Recovery Rehab Center,180.00,71.00,13.00,7.00,"240 Church St, Newington, CT 06111, USA",41.67,-72.74,5/7/2020
+Newington,Bel Air Manor,71.00,2.00,2.00,1.00,"256 New Britain Ave, Newington, CT 06111, USA",41.68,-72.73,5/7/2020
+New London,Harbor Village,128.00,5.00,1.00,0.00,"78 Viets St, New London, CT 06320, USA",41.34,-72.11,5/7/2020
+New Milford,Village Crest Center for Health & Rehabilitation,95.00,36.00,7.00,0.00,"19 Poplar St, New Milford, CT 06776, USA",41.58,-73.41,5/7/2020
+New Milford,Candlewood Valley Health & Rehabilitation Center,148.00,2.00,2.00,0.00,"30 Park Ln E, New Milford, CT 06776, USA",41.60,-73.40,5/7/2020
+Newtown,Newtown Rehabilitation & Health Care Center,154.00,15.00,0.00,0.00,"139 Toddy Hill Rd, Newtown, CT 06470, USA",41.38,-73.26,5/7/2020
+East Lyme,Bride Brook Health & Rehabilitation Center,130.00,96.00,5.00,2.00,"23 Liberty Way, Niantic, CT 06357, USA",41.32,-72.24,5/7/2020
+North Haven,Montowese Health & Rehabilitation Center,120.00,78.00,9.00,1.00,"163 Quinnipiac Ave, North Haven, CT 06473, USA",41.35,-72.86,5/7/2020
+Norwalk,Autumn Lake Healthcare at Norwalk,150.00,56.00,15.00,6.00,"34 Midrocks Dr, Norwalk, CT 06851, USA",41.14,-73.41,5/7/2020
+Norwalk,Notre Dame Health and Rehabilitation Center,60.00,6.00,0.00,0.00,"76 W Rocks Rd, Norwalk, CT 06851, USA",41.13,-73.41,5/7/2020
+Norwalk,Cassena Care at Norwalk,150.00,63.00,11.00,0.00,"23 Prospect St, Norwalk, CT 06850, USA",41.11,-73.42,5/7/2020
+Orange,Orange Health Care Center,60.00,43.00,2.00,0.00,"225 Boston Post Rd, Orange, CT 06477, USA",41.27,-73.00,5/7/2020
+Plainville,Apple Rehab Farmington Valley,160.00,22.00,7.00,1.00,"269 Farmington Ave, Plainville, CT 06062, USA",41.69,-72.85,5/7/2020
+Portland,Portland Care and Rehabilitation,65.00,22.00,6.00,2.00,"333 Main St, Portland, CT 06480, USA",41.58,-72.64,5/7/2020
+Redding,Ridge Crest at Meadow Ridge,62.00,10.00,7.00,1.00,"100 Redding Rd, Redding, CT 06896, USA",41.26,-73.43,5/7/2020
+Ridgefield,Laurel Ridge Health Care Center,126.00,22.00,6.00,1.00,"642 Danbury Rd, Ridgefield, CT 06877, USA",41.32,-73.47,5/7/2020
+Rocky Hill,60 West,95.00,30.00,5.00,0.00,"60 West St, Rocky Hill, CT 06067, USA",41.65,-72.64,5/7/2020
+Rocky Hill,Apple Rehab Rocky Hill,120.00,74.00,15.00,2.00,"45 Elm St, Rocky Hill, CT 06067, USA",41.67,-72.64,5/7/2020
+Rocky Hill,Maple View Health & Rehabilitation Center,120.00,32.00,12.00,6.00,"856 Maple St, Rocky Hill, CT 06067, USA",41.67,-72.67,5/7/2020
+Rocky Hill,John L. Levitow Health Care Center,125.00,5.00,0.00,1.00,"Connecticut, USA",41.60,-73.09,5/7/2020
+Seymour,Shady Knoll Health Center,128.00,73.00,26.00,3.00,"41 Skokorat St, Seymour, CT 06483, USA",41.40,-73.06,5/7/2020
+Sharon,Sharon Health Care Center,88.00,7.00,0.00,0.00,"27 Hospital Hill Rd, Sharon, CT 06069, USA",41.88,-73.48,5/7/2020
+Shelton,Hewitt Health & Rehabilitation Center,120.00,49.00,13.00,3.00,"45 Maltby St, Shelton, CT 06484, USA",41.31,-73.09,5/7/2020
+Shelton,Gardner Heights Health Care Center,130.00,50.00,21.00,4.00,"172 Rocky Rest Rd, Shelton, CT 06484, USA",41.29,-73.10,5/7/2020
+Shelton,Bishop-Wicke Health and Rehabilitation,120.00,27.00,17.00,13.00,"584 Long Hill Ave, Shelton, CT 06484, USA",41.28,-73.10,5/7/2020
+Shelton,Apple Rehab Shelton Lakes,106.00,50.00,16.00,3.00,"5 Lake Rd, Shelton, CT 06484, USA",41.31,-73.11,5/7/2020
+Simsbury,McLean Health Center,89.00,24.00,3.00,1.00,"75 Great Pond Rd, Simsbury, CT 06070, USA",41.89,-72.83,5/7/2020
+Simsbury,Governor's House,70.00,1.00,0.00,0.00,"36 Firetown Rd, Simsbury, CT 06070, USA",41.87,-72.81,5/7/2020
+Southbury,Lutheran Home of Southbury,120.00,41.00,14.00,1.00,"990 Main St N, Southbury, CT 06488, USA",41.50,-73.21,5/7/2020
+Southington,Southington Care Center,130.00,17.00,0.00,0.00,"45 Meriden Ave, Southington, CT 06489, USA",41.60,-72.88,5/7/2020
+Southington,Summit at Plantsville,150.00,48.00,9.00,2.00,"261 Summit St, Plantsville, CT 06479, USA",41.59,-72.89,5/7/2020
+Fairfield,RegalCare at Southport,120.00,39.00,7.00,1.00,"930 Mill Hill Terrace, Southport, CT 06890, USA",41.15,-73.29,5/7/2020
+Stafford,Evergreen Health Care Center,180.00,47.00,14.00,1.00,"205 Chestnut Hill Rd, Stafford Springs, CT 06076, USA",41.98,-72.39,5/7/2020
+Stamford,St. Camillus Center,124.00,40.00,15.00,2.00,"494 Elm St, Stamford, CT 06902, USA",41.05,-73.53,5/7/2020
+Stamford,Cassena Care at Stamford,156.00,72.00,13.00,3.00,"53 Courtland Ave, Stamford, CT 06902, USA",41.06,-73.51,5/7/2020
+Stamford,Edgehill Health Center,46.00,18.00,6.00,2.00,"122 Palmer Hill Rd, Stamford, CT 06902, USA",41.06,-73.57,5/7/2020
+Stamford,The Villa at Stamford,128.00,24.00,5.00,0.00,"88 Rock Rimmon Rd, Stamford, CT 06903, USA",41.14,-73.56,5/7/2020
+Stamford,Long Ridge Post-Acute Care,120.00,58.00,10.00,1.00,"710 Long Ridge Rd, Stamford, CT 06902, USA",41.09,-73.56,5/7/2020
+Stratford,Lord Chamberlain Manor,60.00,13.00,0.00,0.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,5/7/2020
+Stratford,Lord Chamberlain Nursing and Rehabilitation Center,190.00,58.00,26.00,3.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,5/7/2020
+Suffield,Suffield House,128.00,50.00,9.00,7.00,"1 Canal Rd, Suffield, CT 06078, USA",41.98,-72.61,5/7/2020
+Tolland,Woodlake at Tolland Rehabilitation and Nursing Center,130.00,0.00,0.00,1.00,"26 Shenipsit Lake Rd, Tolland, CT 06084, USA",41.87,-72.41,5/7/2020
+Torrington,RegalCare at Torrington,75.00,32.00,7.00,0.00,"80 Fern Dr, Torrington, CT 06790, USA",41.81,-73.11,5/7/2020
+Torrington,Valerie Manor,151.00,59.00,5.00,7.00,"1360 Torringford St, Torrington, CT 06790, USA",41.83,-73.08,5/7/2020
+Torrington,Wolcott Hall Nursing Center,60.00,13.00,4.00,1.00,"215 Forest St, Torrington, CT 06790, USA",41.81,-73.13,5/7/2020
+Torrington,Litchfield Woods,160.00,126.00,28.00,2.00,"255 Roberts St, Torrington, CT 06790, USA",41.81,-73.14,5/7/2020
+Trumbull,St. Joseph's Center,269.00,92.00,14.00,9.00,"6448 Main St, Trumbull, CT 06611, USA",41.28,-73.23,5/7/2020
+Trumbull,Maefair Health Care Center,134.00,68.00,15.00,8.00,"21 Maefair Ct, Trumbull, CT 06611, USA",41.24,-73.19,5/7/2020
+Vernon,Fox Hill Center,150.00,57.00,10.00,0.00,"1253 Hartford Turnpike, Vernon, CT 06066, USA",41.86,-72.44,5/7/2020
+Wallingford,Masonicare Health Center,357.00,9.00,0.00,1.00,"22 Masonic Ave, Wallingford, CT 06492, USA",41.46,-72.84,5/7/2020
+Wallingford,Regency House Nursing and Rehabilitation Center,130.00,64.00,15.00,4.00,"181 E Main St, Wallingford, CT 06492, USA",41.45,-72.80,5/7/2020
+Wallingford,Skyview Rehab and Nursing,97.00,48.00,1.00,0.00,"35 Marc Dr, Wallingford, CT 06492, USA",41.45,-72.85,5/7/2020
+Wallingford,Quinnipiac Valley Center,180.00,55.00,6.00,1.00,"55 Kondracki Ln, Wallingford, CT 06492, USA",41.43,-72.81,5/7/2020
+Waterbury,Cheshire House Health Care Facility & Rehabilitation Center,75.00,23.00,1.00,1.00,"3396 E Main St, Waterbury, CT 06705, USA",41.54,-72.98,5/7/2020
+Waterbury,Abbott Terrace Health Center,205.00,121.00,31.00,7.00,"44 Abbott Terrace, Waterbury, CT 06702, USA",41.56,-73.04,5/7/2020
+Waterbury,Grove Manor Nursing Home,60.00,3.00,0.00,0.00,"145 Grove St, Waterbury, CT 06710, USA",41.56,-73.04,5/7/2020
+Waterbury,Waterbury Gardens Nursing and Rehabilitation,150.00,39.00,11.00,1.00,"128 Cedar Ave, Waterbury, CT 06705, USA",41.55,-73.00,5/7/2020
+Waterbury,RegalCare at Waterbury,120.00,50.00,9.00,0.00,"177 Whitewood Rd, Waterbury, CT 06708, USA",41.58,-73.08,5/7/2020
+Waterbury,Autumn Lake Healthcare At Bucks Hill,90.00,15.00,2.00,0.00,"2817 N Main St, Waterbury, CT 06704, USA",41.59,-73.03,5/7/2020
+Waterford,New London Sub-Acute and Nursing,120.00,74.00,1.00,0.00,"31 Vauxhall St, New London, CT 06320, USA",41.36,-72.10,5/7/2020
+Waterford,Bayview Health Care,127.00,37.00,7.00,0.00,"301 Rope Ferry Rd, Waterford, CT 06385, USA",41.33,-72.17,5/7/2020
+Watertown,Apple Rehab Watertown,110.00,1.00,1.00,0.00,"35 Bunker Hill Rd, Watertown, CT 06795, USA",41.58,-73.10,5/7/2020
+West Hartford,Saint Mary Home,256.00,43.00,9.00,8.00,"2021 Albany Ave, West Hartford, CT 06117, USA",41.78,-72.73,5/7/2020
+West Hartford,Hughes Health and Rehabilitation,170.00,37.00,7.00,6.00,"29 Highland St, West Hartford, CT 06119, USA",41.77,-72.72,5/7/2020
+West Hartford,West Hartford Health and Rehabilitation Center,160.00,23.00,6.00,9.00,"130 Loomis Dr, West Hartford, CT 06107, USA",41.77,-72.74,5/7/2020
+West Hartford,Hebrew Center for Health and Rehabilitation,257.00,34.00,3.00,2.00,"1 Abrahms Blvd, West Hartford, CT 06117, USA",41.80,-72.73,5/7/2020
+West Hartford,The Reservoir,75.00,8.00,2.00,0.00,"1 Emily Way, West Hartford, CT 06107, USA",41.74,-72.78,5/7/2020
+West Haven,Apple Rehab West Haven,90.00,57.00,6.00,1.00,"308 Savin Ave, West Haven, CT 06516, USA",41.26,-72.95,5/7/2020
+West Haven,RegalCare at West Haven,98.00,18.00,5.00,0.00,"310 Terrace Ave, West Haven, CT 06516, USA",41.28,-72.97,5/7/2020
+Westport,Westport Rehabilitation Complex,99.00,28.00,7.00,4.00,"1 Burr Rd, Westport, CT 06880, USA",41.14,-73.37,5/7/2020
+Wilton,Wilton Meadows Health Care Center,148.00,8.00,7.00,15.00,"439 Danbury Rd, Wilton, CT 06897, USA",41.22,-73.43,5/7/2020
+Windham,St. Joseph's Living Center,120.00,26.00,3.00,0.00,"14 Club Rd, Windham, CT 06280, USA",41.71,-72.19,5/7/2020
+Windsor,Kimberly Hall North,150.00,68.00,15.00,25.00,"1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,5/7/2020
+Windsor,Windsor Health and Rehabilitation Center,108.00,54.00,17.00,3.00,"581 Poquonock Ave, Windsor, CT 06095, USA",41.87,-72.66,5/7/2020
+Windsor,Kimberly Hall South,180.00,65.00,9.00,3.00,"South, 1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,5/7/2020
+Windsor Locks,Bickford Health Care Center,48.00,14.00,0.00,1.00,"14 Main St, Windsor Locks, CT 06096, USA",41.93,-72.63,5/7/2020
+Woodbridge,The Willows,90.00,59.00,11.00,5.00,"225 Amity Rd, Woodbridge, CT 06525, USA",41.34,-72.98,5/7/2020
+Avon,Apple Rehab Avon,60.00,15.00,5.00,1.00,"220 Scoville Rd, Avon, CT 06001, USA",41.78,-72.86,5/15/2020
+Avon,Avon Health Center,120.00,28.00,0.00,0.00,"652 W Avon Rd, Avon, CT 06001, USA",41.77,-72.86,5/15/2020
+Berlin,Ledgecrest Health Care,60.00,32.00,4.00,1.00,"154 Kensington Rd, Berlin, CT 06037, USA",41.63,-72.77,5/15/2020
+Bethel,Bethel Health Care Center,161.00,42.00,8.00,5.00,"13 Park Lawn Dr, Bethel, CT 06801, USA",41.42,-73.40,5/15/2020
+Bloomfield,Bloomfield Center for Nursing and Rehabilitation,120.00,29.00,9.00,8.00,"355 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.71,5/15/2020
+Bloomfield,Caleb Hitchcock Health Center,60.00,5.00,4.00,0.00,"10 Loeffler Rd, Bloomfield, CT 06002, USA",41.83,-72.76,5/15/2020
+Bloomfield,Seabury,72.00,32.00,10.00,0.00,"Seabury Dr, Bloomfield, CT 06002, USA",41.83,-72.71,5/15/2020
+Bloomfield,Touchpoints at Bloomfield,150.00,65.00,14.00,1.00,"140 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.70,5/15/2020
+Branford,Branford Hills Health Care Center,190.00,100.00,23.00,0.00,"189 Alps Rd #4771, Branford, CT 06405, USA",41.27,-72.85,5/15/2020
+Bridgeport,Jewish Senior Services,294.00,44.00,12.00,2.00,"4200 Park Ave, Bridgeport, CT 06604, USA",41.21,-73.23,5/15/2020
+Bridgeport,Northbridge Healthcare Center,145.00,37.00,8.00,5.00,"2875 Main St, Bridgeport, CT 06606, USA",41.20,-73.20,5/15/2020
+Bridgeport,Springs at Watermark 3030 Park,23.00,9.00,4.00,0.00,"3030 Park Ave, Bridgeport, CT 06604, USA",41.20,-73.22,5/15/2020
+Bristol,Countryside Manor of Bristol,90.00,62.00,19.00,2.00,"1660 Stafford Ave, Bristol, CT 06010, USA",41.72,-72.91,5/15/2020
+Bristol,Ingraham Manor,128.00,7.00,0.00,1.00,"400 N Main St, Bristol, CT 06010, USA",41.68,-72.95,5/15/2020
+Bristol,Pines At Bristol Center for Nursing & Rehabilitation,132.00,34.00,2.00,0.00,"61 Bellevue Ave, Bristol, CT 06010, USA",41.68,-72.94,5/15/2020
+Bristol,Sheridan Woods Health Care Center,146.00,73.00,26.00,3.00,"321 Stonecrest Dr, Bristol, CT 06010, USA",41.68,-72.92,5/15/2020
+Canaan,Geer Nursing And Rehabilitation Center,120.00,1.00,0.00,0.00,"99 S Canaan Rd, North Canaan, CT 06018, USA",42.01,-73.33,5/15/2020
+Canton,Cherry Brook Health Care Center,100.00,57.00,17.00,4.00,"102 Dyer Ave, Canton, CT 06019, USA",41.83,-72.92,5/15/2020
+Cheshire,Cheshire Regional Rehab Center,85.00,1.00,0.00,0.00,"745 Highland Ave, Cheshire, CT 06410, USA",41.52,-72.90,5/15/2020
+Cheshire,Elim Park Baptist Home,90.00,35.00,9.00,1.00,"150 Cook Hill Rd, Cheshire, CT 06410, USA",41.47,-72.90,5/15/2020
+Chester,Aaron Manor Nursing and Rehabilitation,60.00,29.00,10.00,0.00,"3 S Wig Hill Rd, Chester, CT 06412, USA",41.40,-72.48,5/15/2020
+Chester,Chesterfields Health Care Center,60.00,0.00,0.00,1.00,"132 Main St, Chester, CT 06412, USA",41.40,-72.44,5/15/2020
+Cromwell,Apple Rehab Cromwell,85.00,30.00,6.00,1.00,"156 Berlin Rd, Cromwell, CT 06416, USA",41.61,-72.71,5/15/2020
+Cromwell,Autumn Lake Healthcare At Cromwell,175.00,68.00,4.00,4.00,"385 Main St, Cromwell, CT 06416, USA",41.60,-72.65,5/15/2020
+Danbury,Filosa Nursing & Rehabilitation,64.00,2.00,0.00,0.00,"13 Hakim St, Danbury, CT 06810, USA",41.40,-73.47,5/15/2020
+Danbury,Glen Hill Center,100.00,32.00,1.00,1.00,"1 Glen Hill Rd, Danbury, CT 06811, USA",41.41,-73.45,5/15/2020
+Danbury,Hancock Hall,96.00,1.00,1.00,0.00,"31 Staples St, Danbury, CT 06810, USA",41.40,-73.47,5/15/2020
+Danbury,Saint John Paul II Center,141.00,75.00,30.00,2.00,"33 Lincoln Ave, Danbury, CT 06810, USA",41.39,-73.45,5/15/2020
+Danbury,Western Rehabilitation Care Center,120.00,48.00,12.00,5.00,"107 Osborne St, Danbury, CT 06810, USA",41.40,-73.44,5/15/2020
+East Hartford,Riverside Health & Rehabilitation Center,345.00,111.00,30.00,24.00,"745 Main St, East Hartford, CT 06108, USA",41.77,-72.65,5/15/2020
+East Haven,Apple Rehab Laurel Woods,120.00,21.00,2.00,2.00,"451 N High St, East Haven, CT 06512, USA",41.29,-72.87,5/15/2020
+East Haven,Whispering Pines,90.00,59.00,12.00,13.00,"38 Talmadge Ave, East Haven, CT 06512, USA",41.26,-72.86,5/15/2020
+East Windsor,Fresh River Healthcare,140.00,85.00,5.00,4.00,"96 Prospect Hill Rd, East Windsor, CT 06088, USA",41.93,-72.61,5/15/2020
+Enfield,Parkway Pavilion Health and Rehabilitation Center,130.00,93.00,17.00,1.00,"1157 Enfield St, Enfield, CT 06082, USA",41.99,-72.59,5/15/2020
+Fairfield,Cambridge Health and Rehabilitation Center,160.00,58.00,13.00,8.00,"2428 Easton Turnpike, Fairfield, CT 06825, USA",41.21,-73.25,5/15/2020
+Fairfield,Carolton Chronic & Convalescent Hospital,229.00,72.00,18.00,1.00,"400 Mill Plain Rd, Fairfield, CT 06824, USA",41.15,-73.27,5/15/2020
+Fairfield,Ludlowe Center for Health & Rehabilitation,144.00,64.00,13.00,11.00,"118 Jefferson St, Fairfield, CT 06825, USA",41.22,-73.24,5/15/2020
+Farmington,Amberwoods of Farmington,130.00,1.00,0.00,0.00,"416 Colt Hwy, Farmington, CT 06032, USA",41.71,-72.80,5/15/2020
+Farmington,Touchpoints at Farmington,105.00,84.00,14.00,2.00,"20 Scott Swamp Rd, Farmington, CT 06032, USA",41.71,-72.85,5/15/2020
+Glastonbury,Glastonbury Health Care Center,105.00,49.00,20.00,7.00,"1175 Hebron Ave, Glastonbury, CT 06033, USA",41.72,-72.57,5/15/2020
+Glastonbury,Salmon Brook Rehab and Nursing,130.00,36.00,14.00,3.00,"72 Salmon Brook Dr, Glastonbury, CT 06033, USA",41.72,-72.60,5/15/2020
+Granby,Meadowbrook of Granby,90.00,1.00,0.00,1.00,"350 Salmon Brook St, Granby, CT 06035, USA",41.97,-72.79,5/15/2020
+Greenwich,Greenwich Woods,217.00,35.00,7.00,3.00,"1165 King St, Greenwich, CT 06831, USA",41.06,-73.69,5/15/2020
+Greenwich,Nathaniel Witherall,202.00,46.00,9.00,1.00,"70 Parsonage Rd, Greenwich, CT 06830, USA",41.06,-73.63,5/15/2020
+Greenwich,RegalCare at Greenwich,75.00,5.00,2.00,0.00,"1188 King St, Greenwich, CT 06831, USA",41.06,-73.70,5/15/2020
+Groton,Mystic Healthcare & Rehabilitation Center,100.00,45.00,9.00,6.00,"475 High St, Mystic, CT 06355, USA",41.36,-71.98,5/15/2020
+Guilford,Apple Rehab Guilford,90.00,24.00,5.00,2.00,"10 Boston Post Rd, Guilford, CT 06437, USA",41.29,-72.65,5/15/2020
+Guilford,Guilford House,75.00,1.00,0.00,0.00,"109 W Lake Ave, Guilford, CT 06437, USA",41.31,-72.72,5/15/2020
+Hamden,Arden House,360.00,97.00,21.00,0.00,"850 Mix Ave, Hamden, CT 06514, USA",41.38,-72.92,5/15/2020
+Hamden,Hamden Rehabilitation & Health Care Center,153.00,53.00,14.00,2.00,"1270 Sherman Ave, Hamden, CT 06514, USA",41.39,-72.92,5/15/2020
+Hamden,Whitney Center,59.00,0.00,1.00,0.00,"200 Leeder Hill Dr, Hamden, CT 06517, USA",41.35,-72.92,5/15/2020
+Hamden,Whitney Rehabilitation Care Center,150.00,69.00,10.00,0.00,"2798 Whitney Ave, Hamden, CT 06518, USA",41.40,-72.90,5/15/2020
+Hartford,Avery Nursing Home/Noble Building,199.00,30.00,8.00,0.00,"550 Avery Heights, Hartford, CT 06106, USA",41.73,-72.71,5/15/2020
+Hartford,Chelsea Place,234.00,74.00,17.00,10.00,"25 Lorraine St, Hartford, CT 06105, USA",41.77,-72.71,5/15/2020
+Hartford,Parkville Care Center,150.00,70.00,8.00,3.00,"5 Greenwood St, Hartford, CT 06106, USA",41.75,-72.71,5/15/2020
+Hartford,Trinity Hill Care Center,144.00,74.00,7.00,2.00,"151 Hillside Ave, Hartford, CT 06106, USA",41.75,-72.70,5/15/2020
+Madison,Madison House,89.00,44.00,10.00,3.00,"34 Wildwood Ave, Madison, CT 06443, USA",41.29,-72.64,5/15/2020
+Manchester,Crestfield Rehabilitation Center,155.00,30.00,8.00,1.00,"565 Vernon St, Manchester, CT 06042, USA",41.80,-72.49,5/15/2020
+Manchester,Manchester Manor Health Care Center,126.00,19.00,7.00,0.00,"385 W Center St, Manchester, CT 06040, USA",41.77,-72.55,5/15/2020
+Manchester,Touchpoints at Manchester,131.00,43.00,14.00,4.00,"333 Bidwell St, Manchester, CT 06040, USA",41.76,-72.55,5/15/2020
+Manchester,Westside Care Center,162.00,68.00,2.00,4.00,"349 Bidwell St, Manchester, CT 06040, USA",41.76,-72.54,5/15/2020
+Marlborough,Marlborough Health Care Center,120.00,23.00,1.00,0.00,"85 Stage Harbor Rd, Marlborough, CT 06447, USA",41.65,-72.48,5/15/2020
+Meriden,Apple Rehab Coccomo,100.00,31.00,8.00,6.00,"33 Cone Ave, Meriden, CT 06450, USA",41.52,-72.75,5/15/2020
+Meriden,Meriden Center,130.00,15.00,0.00,0.00,"845 Paddock Ave, Meriden, CT 06450, USA",41.51,-72.78,5/15/2020
+Meriden,Silver Springs Care Center,159.00,116.00,8.00,1.00,"33 Roy St, Meriden, CT 06450, USA",41.53,-72.80,5/15/2020
+Meriden,The Curtis Home,60.00,25.00,8.00,0.00,"380 Crown St, Meriden, CT 06450, USA",41.53,-72.80,5/15/2020
+Middletown,Apple Rehab Middletown,70.00,13.00,4.00,5.00,"600 Highland Ave, Middletown, CT 06457, USA",41.53,-72.66,5/15/2020
+Middletown,Middlesex Health Care Center,150.00,37.00,18.00,6.00,"100 Randolph Rd, Middletown, CT 06457, USA",41.54,-72.62,5/15/2020
+Middletown,Water's Edge Center for Health & Rehabilitation,150.00,71.00,7.00,6.00,"111 Church St, Middletown, CT 06457, USA",41.56,-72.65,5/15/2020
+Milford,Golden Hill Rehab Pavilion,120.00,82.00,18.00,6.00,"2028 Bridgeport Ave, Milford, CT 06460, USA",41.22,-73.07,5/15/2020
+Milford,Milford Health and Rehabilitation Center,120.00,76.00,22.00,2.00,"195 Platt St, Milford, CT 06460, USA",41.21,-73.02,5/15/2020
+Milford,West River Rehab Center,120.00,20.00,4.00,2.00,"245 Orange Ave, Milford, CT 06461, USA",41.24,-73.05,5/15/2020
+Naugatuck,Beacon Brook Health Center,126.00,97.00,6.00,0.00,"89 Weid Dr, Naugatuck, CT 06770, USA",41.47,-73.03,5/15/2020
+Naugatuck,Glendale Center,120.00,33.00,4.00,0.00,"4 Hazel Ave, Naugatuck, CT 06770, USA",41.47,-73.04,5/15/2020
+New Britain,Autumn Lake Healthcare At New Britain,282.00,70.00,7.00,5.00,"400 Brittany Farms Rd, New Britain, CT 06053, USA",41.71,-72.77,5/15/2020
+New Britain,Cassena Care at New Britain,90.00,40.00,6.00,2.00,"66 Clinic Dr, New Britain, CT 06051, USA",41.65,-72.79,5/15/2020
+New Britain,Grandview Rehabilitation and Healthcare Center,160.00,43.00,16.00,4.00,"55 Grand St, New Britain, CT 06052, USA",41.66,-72.79,5/15/2020
+New Britain,Jerome Home,94.00,5.00,0.00,0.00,"975 Corbin Ave, New Britain, CT 06052, USA",41.66,-72.80,5/15/2020
+New Canaan,Waveny Care Center,76.00,44.00,11.00,3.00,"3 Farm Rd, New Canaan, CT 06840, USA",41.13,-73.49,5/15/2020
+New Haven,Advanced Center For Nursing And Rehabilitation,226.00,56.00,2.00,0.00,"169 Davenport Ave, New Haven, CT 06519, USA",41.30,-72.94,5/15/2020
+New Haven,Grimes Center,114.00,57.00,3.00,0.00,"1354 Chapel St, New Haven, CT 06511, USA",41.31,-72.94,5/15/2020
+New Haven,RegalCare at New Haven,150.00,38.00,5.00,0.00,"181 Clifton St, New Haven, CT 06513, USA",41.31,-72.88,5/15/2020
+New Haven,The Mary Wade Home,94.00,51.00,16.00,5.00,"118 Clinton Ave, New Haven, CT 06513, USA",41.31,-72.89,5/15/2020
+New London,Beechwood,60.00,2.00,0.00,0.00,"Beechwood Ln, New London, CT 06320, USA",41.31,-72.10,5/15/2020
+New London,Harbor Village,128.00,5.00,0.00,0.00,"78 Viets St, New London, CT 06320, USA",41.34,-72.11,5/15/2020
+New Milford,Candlewood Valley Health & Rehabilitation Center,148.00,2.00,2.00,0.00,"30 Park Ln E, New Milford, CT 06776, USA",41.60,-73.40,5/15/2020
+New Milford,Village Crest Center for Health & Rehabilitation,95.00,60.00,8.00,0.00,"19 Poplar St, New Milford, CT 06776, USA",41.58,-73.41,5/15/2020
+Newington,Bel Air Manor,71.00,2.00,2.00,1.00,"256 New Britain Ave, Newington, CT 06111, USA",41.68,-72.73,5/15/2020
+Newington,Jefferson House,104.00,27.00,2.00,0.00,"1 John H Stewart Dr, Newington, CT 06111, USA",41.70,-72.71,5/15/2020
+Newington,Newington Rapid Recovery Rehab Center,180.00,74.00,13.00,8.00,"240 Church St, Newington, CT 06111, USA",41.67,-72.74,5/15/2020
+Newtown,Newtown Rehabilitation & Health Care Center,154.00,34.00,2.00,0.00,"139 Toddy Hill Rd, Newtown, CT 06470, USA",41.38,-73.26,5/15/2020
+East Lyme,Bride Brook Health & Rehabilitation Center,130.00,99.00,11.00,3.00,"23 Liberty Way, Niantic, CT 06357, USA",41.32,-72.24,5/15/2020
+North Haven,Montowese Health & Rehabilitation Center,120.00,84.00,14.00,1.00,"163 Quinnipiac Ave, North Haven, CT 06473, USA",41.35,-72.86,5/15/2020
+Norwalk,Autumn Lake Healthcare at Norwalk,150.00,58.00,18.00,6.00,"34 Midrocks Dr, Norwalk, CT 06851, USA",41.14,-73.41,5/15/2020
+Norwalk,Cassena Care at Norwalk,150.00,62.00,17.00,1.00,"23 Prospect St, Norwalk, CT 06850, USA",41.11,-73.42,5/15/2020
+Norwalk,Notre Dame Health and Rehabilitation Center,60.00,19.00,0.00,0.00,"76 W Rocks Rd, Norwalk, CT 06851, USA",41.13,-73.41,5/15/2020
+Orange,Orange Health Care Center,60.00,43.00,3.00,0.00,"225 Boston Post Rd, Orange, CT 06477, USA",41.27,-73.00,5/15/2020
+Plainville,Apple Rehab Farmington Valley,160.00,24.00,9.00,1.00,"269 Farmington Ave, Plainville, CT 06062, USA",41.69,-72.85,5/15/2020
+Portland,Portland Care and Rehabilitation,65.00,19.00,6.00,2.00,"333 Main St, Portland, CT 06480, USA",41.58,-72.64,5/15/2020
+Redding,Ridge Crest at Meadow Ridge,62.00,10.00,7.00,1.00,"100 Redding Rd, Redding, CT 06896, USA",41.26,-73.43,5/15/2020
+Ridgefield,Laurel Ridge Health Care Center,126.00,23.00,9.00,1.00,"642 Danbury Rd, Ridgefield, CT 06877, USA",41.32,-73.47,5/15/2020
+Rocky Hill,60 West,95.00,45.00,5.00,0.00,"60 West St, Rocky Hill, CT 06067, USA",41.65,-72.64,5/15/2020
+Rocky Hill,Apple Rehab Rocky Hill,120.00,76.00,17.00,2.00,"45 Elm St, Rocky Hill, CT 06067, USA",41.67,-72.64,5/15/2020
+Rocky Hill,John L. Levitow Health Care Center,125.00,5.00,2.00,0.00,"Rocky Hill, CT, USA",41.66,-72.67,5/15/2020
+Rocky Hill,Maple View Health & Rehabilitation Center,120.00,45.00,16.00,8.00,"856 Maple St, Rocky Hill, CT 06067, USA",41.67,-72.67,5/15/2020
+Seymour,Shady Knoll Health Center,128.00,84.00,29.00,6.00,"41 Skokorat St, Seymour, CT 06483, USA",41.40,-73.06,5/15/2020
+Sharon,Sharon Health Care Center,88.00,6.00,0.00,0.00,"27 Hospital Hill Rd, Sharon, CT 06069, USA",41.88,-73.48,5/15/2020
+Shelton,Apple Rehab Shelton Lakes,106.00,49.00,17.00,3.00,"5 Lake Rd, Shelton, CT 06484, USA",41.31,-73.11,5/15/2020
+Shelton,Bishop-Wicke Health and Rehabilitation,120.00,30.00,16.00,15.00,"584 Long Hill Ave, Shelton, CT 06484, USA",41.28,-73.10,5/15/2020
+Shelton,Gardner Heights Health Care Center,130.00,50.00,21.00,4.00,"172 Rocky Rest Rd, Shelton, CT 06484, USA",41.29,-73.10,5/15/2020
+Shelton,Hewitt Health & Rehabilitation Center,120.00,54.00,18.00,3.00,"45 Maltby St, Shelton, CT 06484, USA",41.31,-73.09,5/15/2020
+Simsbury,Governor's House,70.00,2.00,0.00,0.00,"36 Firetown Rd, Simsbury, CT 06070, USA",41.87,-72.81,5/15/2020
+Simsbury,McLean Health Center,89.00,24.00,4.00,2.00,"75 Great Pond Rd, Simsbury, CT 06070, USA",41.89,-72.83,5/15/2020
+Southbury,Lutheran Home of Southbury,120.00,42.00,15.00,2.00,"990 Main St N, Southbury, CT 06488, USA",41.50,-73.21,5/15/2020
+Southington,Southington Care Center,130.00,29.00,0.00,0.00,"45 Meriden Ave, Southington, CT 06489, USA",41.60,-72.88,5/15/2020
+Southington,Summit at Plantsville,150.00,51.00,11.00,2.00,"261 Summit St, Plantsville, CT 06479, USA",41.59,-72.89,5/15/2020
+Fairfield,RegalCare at Southport,120.00,41.00,8.00,1.00,"930 Mill Hill Terrace, Southport, CT 06890, USA",41.15,-73.29,5/15/2020
+Stafford,Evergreen Health Care Center,180.00,51.00,14.00,2.00,"205 Chestnut Hill Rd, Stafford Springs, CT 06076, USA",41.98,-72.39,5/15/2020
+Stamford,Cassena Care at Stamford,156.00,72.00,16.00,3.00,"53 Courtland Ave, Stamford, CT 06902, USA",41.06,-73.51,5/15/2020
+Stamford,Edgehill Health Center,46.00,18.00,6.00,2.00,"122 Palmer Hill Rd, Stamford, CT 06902, USA",41.06,-73.57,5/15/2020
+Stamford,Long Ridge Post-Acute Care,120.00,56.00,17.00,1.00,"710 Long Ridge Rd, Stamford, CT 06902, USA",41.09,-73.56,5/15/2020
+Stamford,St. Camillus Center,124.00,42.00,15.00,2.00,"494 Elm St, Stamford, CT 06902, USA",41.05,-73.53,5/15/2020
+Stamford,The Villa at Stamford,128.00,21.00,5.00,0.00,"88 Rock Rimmon Rd, Stamford, CT 06903, USA",41.14,-73.56,5/15/2020
+Stratford,Lord Chamberlain Manor,60.00,15.00,2.00,0.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,5/15/2020
+Stratford,Lord Chamberlain Nursing and Rehabilitation Center,190.00,62.00,29.00,3.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,5/15/2020
+Suffield,Suffield House,128.00,45.00,9.00,7.00,"1 Canal Rd, Suffield, CT 06078, USA",41.98,-72.61,5/15/2020
+Tolland,Woodlake at Tolland Rehabilitation and Nursing Center,130.00,0.00,0.00,1.00,"26 Shenipsit Lake Rd, Tolland, CT 06084, USA",41.87,-72.41,5/15/2020
+Torrington,Litchfield Woods,160.00,127.00,29.00,2.00,"255 Roberts St, Torrington, CT 06790, USA",41.81,-73.14,5/15/2020
+Torrington,RegalCare at Torrington,75.00,33.00,8.00,0.00,"80 Fern Dr, Torrington, CT 06790, USA",41.81,-73.11,5/15/2020
+Torrington,Valerie Manor,151.00,72.00,10.00,6.00,"1360 Torringford St, Torrington, CT 06790, USA",41.83,-73.08,5/15/2020
+Torrington,Wolcott Hall Nursing Center,60.00,13.00,4.00,1.00,"215 Forest St, Torrington, CT 06790, USA",41.81,-73.13,5/15/2020
+Trumbull,Maefair Health Care Center,134.00,85.00,15.00,9.00,"21 Maefair Ct, Trumbull, CT 06611, USA",41.24,-73.19,5/15/2020
+Trumbull,St. Joseph's Center,269.00,98.00,19.00,7.00,"6448 Main St, Trumbull, CT 06611, USA",41.28,-73.23,5/15/2020
+Vernon,Fox Hill Center,150.00,61.00,12.00,0.00,"1253 Hartford Turnpike, Vernon, CT 06066, USA",41.86,-72.44,5/15/2020
+Wallingford,Masonicare Health Center,357.00,8.00,0.00,1.00,"22 Masonic Ave, Wallingford, CT 06492, USA",41.46,-72.84,5/15/2020
+Wallingford,Quinnipiac Valley Center,180.00,61.00,9.00,1.00,"55 Kondracki Ln, Wallingford, CT 06492, USA",41.43,-72.81,5/15/2020
+Wallingford,Regency House Nursing and Rehabilitation Center,130.00,75.00,20.00,5.00,"181 E Main St, Wallingford, CT 06492, USA",41.45,-72.80,5/15/2020
+Wallingford,Skyview Rehab and Nursing,97.00,54.00,4.00,0.00,"35 Marc Dr, Wallingford, CT 06492, USA",41.45,-72.85,5/15/2020
+Waterbury,Abbott Terrace Health Center,205.00,115.00,33.00,8.00,"44 Abbott Terrace, Waterbury, CT 06702, USA",41.56,-73.04,5/15/2020
+Waterbury,Autumn Lake Healthcare At Bucks Hill,90.00,16.00,2.00,0.00,"2817 N Main St, Waterbury, CT 06704, USA",41.59,-73.03,5/15/2020
+Waterbury,Cheshire House Health Care Facility & Rehabilitation Center,75.00,25.00,4.00,3.00,"3396 E Main St, Waterbury, CT 06705, USA",41.54,-72.98,5/15/2020
+Waterbury,RegalCare at Waterbury,120.00,58.00,9.00,0.00,"177 Whitewood Rd, Waterbury, CT 06708, USA",41.58,-73.08,5/15/2020
+Waterbury,Waterbury Gardens Nursing and Rehabilitation,150.00,39.00,12.00,1.00,"128 Cedar Ave, Waterbury, CT 06705, USA",41.55,-73.00,5/15/2020
+Waterbury,Grove Manor Nursing Home,60.00,5.00,1.00,0.00,"145 Grove St, Waterbury, CT 06710, USA",41.56,-73.04,5/15/2020
+Waterford,Bayview Health Care,127.00,40.00,7.00,0.00,"301 Rope Ferry Rd, Waterford, CT 06385, USA",41.33,-72.17,5/15/2020
+Waterford,Greentree Manor Nursing and Rehabilitation,90.00,10.00,0.00,0.00,"4 Greentree Dr, Waterford, CT 06385, USA",41.39,-72.15,5/15/2020
+Waterford,New London Sub-Acute and Nursing,120.00,81.00,4.00,0.00,"88 Clark Ln, Waterford, CT 06385, USA",41.35,-72.13,5/15/2020
+Watertown,Apple Rehab Watertown,110.00,1.00,1.00,0.00,"35 Bunker Hill Rd, Watertown, CT 06795, USA",41.58,-73.10,5/15/2020
+West Hartford,Hebrew Center for Health and Rehabilitation,257.00,40.00,4.00,4.00,"1 Abrahms Blvd, West Hartford, CT 06117, USA",41.80,-72.73,5/15/2020
+West Hartford,Hughes Health and Rehabilitation,170.00,37.00,14.00,4.00,"29 Highland St, West Hartford, CT 06119, USA",41.77,-72.72,5/15/2020
+West Hartford,Saint Mary Home,256.00,48.00,12.00,8.00,"2021 Albany Ave, West Hartford, CT 06117, USA",41.78,-72.73,5/15/2020
+West Hartford,The Reservoir,75.00,8.00,2.00,0.00,"1 Emily Way, West Hartford, CT 06107, USA",41.74,-72.78,5/15/2020
+West Hartford,West Hartford Health and Rehabilitation Center,160.00,33.00,9.00,7.00,"130 Loomis Dr, West Hartford, CT 06107, USA",41.77,-72.74,5/15/2020
+West Haven,Apple Rehab West Haven,90.00,55.00,8.00,1.00,"308 Savin Ave, West Haven, CT 06516, USA",41.26,-72.95,5/15/2020
+West Haven,RegalCare at West Haven,98.00,20.00,6.00,0.00,"310 Terrace Ave, West Haven, CT 06516, USA",41.28,-72.97,5/15/2020
+Westport,Westport Rehabilitation Complex,99.00,34.00,8.00,4.00,"1 Burr Rd, Westport, CT 06880, USA",41.14,-73.37,5/15/2020
+Wilton,Wilton Meadows Health Care Center,148.00,28.00,7.00,18.00,"439 Danbury Rd, Wilton, CT 06897, USA",41.22,-73.43,5/15/2020
+Windham,St. Joseph's Living Center,120.00,27.00,6.00,0.00,"14 Club Rd, Windham, CT 06280, USA",41.71,-72.19,5/15/2020
+Windsor,Kimberly Hall North,150.00,70.00,17.00,26.00,"1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,5/15/2020
+Windsor,Kimberly Hall South,180.00,71.00,11.00,2.00,"South, 1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,5/15/2020
+Windsor,Windsor Health and Rehabilitation Center,108.00,49.00,18.00,3.00,"581 Poquonock Ave, Windsor, CT 06095, USA",41.87,-72.66,5/15/2020
+Windsor Locks,Bickford Health Care Center,48.00,32.00,4.00,2.00,"14 Main St, Windsor Locks, CT 06096, USA",41.93,-72.63,5/15/2020
+Woodbridge,The Willows,90.00,59.00,14.00,4.00,"225 Amity Rd, Woodbridge, CT 06525, USA",41.34,-72.98,5/15/2020
+Avon,Avon Health Center,120.00,38.00,0.00,3.00,"652 W Avon Rd, Avon, CT 06001, USA",41.77,-72.86,5/23/2020
+Avon,Apple Rehab Avon,60.00,17.00,5.00,1.00,"220 Scoville Rd, Avon, CT 06001, USA",41.78,-72.86,5/23/2020
+Berlin,Ledgecrest Health Care,60.00,33.00,5.00,1.00,"154 Kensington Rd, Berlin, CT 06037, USA",41.63,-72.77,5/23/2020
+Bethel,Bethel Health Care Center,161.00,59.00,8.00,5.00,"13 Park Lawn Dr, Bethel, CT 06801, USA",41.42,-73.40,5/23/2020
+Bloomfield,Caleb Hitchcock Health Center,60.00,5.00,4.00,0.00,"10 Loeffler Rd, Bloomfield, CT 06002, USA",41.83,-72.76,5/23/2020
+Bloomfield,Touchpoints at Bloomfield,150.00,70.00,16.00,2.00,"140 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.70,5/23/2020
+Bloomfield,Seabury,72.00,33.00,12.00,0.00,"Seabury Dr, Bloomfield, CT 06002, USA",41.83,-72.71,5/23/2020
+Bloomfield,Bloomfield Center for Nursing and Rehabilitation,120.00,46.00,10.00,9.00,"355 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.71,5/23/2020
+Branford,Branford Hills Health Care Center,190.00,100.00,23.00,0.00,"189 Alps Rd #4771, Branford, CT 06405, USA",41.27,-72.85,5/23/2020
+Bridgeport,Northbridge Healthcare Center,145.00,37.00,7.00,6.00,"2875 Main St, Bridgeport, CT 06606, USA",41.20,-73.20,5/23/2020
+Bridgeport,Springs at Watermark 3030 Park,23.00,11.00,3.00,0.00,"3030 Park Ave, Bridgeport, CT 06604, USA",41.20,-73.22,5/23/2020
+Bridgeport,Jewish Senior Services,294.00,87.00,14.00,2.00,"4200 Park Ave, Bridgeport, CT 06604, USA",41.21,-73.23,5/23/2020
+Bristol,Ingraham Manor,128.00,7.00,0.00,1.00,"400 N Main St, Bristol, CT 06010, USA",41.68,-72.95,5/23/2020
+Bristol,Sheridan Woods Health Care Center,146.00,73.00,27.00,3.00,"321 Stonecrest Dr, Bristol, CT 06010, USA",41.68,-72.92,5/23/2020
+Bristol,Pines At Bristol Center for Nursing & Rehabilitation,132.00,35.00,3.00,0.00,"61 Bellevue Ave, Bristol, CT 06010, USA",41.68,-72.94,5/23/2020
+Bristol,Countryside Manor of Bristol,90.00,62.00,20.00,2.00,"1660 Stafford Ave, Bristol, CT 06010, USA",41.72,-72.91,5/23/2020
+Canaan,Geer Nursing And Rehabilitation Center,120.00,2.00,0.00,0.00,"99 S Canaan Rd, North Canaan, CT 06018, USA",42.01,-73.33,5/23/2020
+Canton,Cherry Brook Health Care Center,100.00,57.00,17.00,5.00,"102 Dyer Ave, Canton, CT 06019, USA",41.83,-72.92,5/23/2020
+Cheshire,Cheshire Regional Rehab Center,85.00,2.00,0.00,0.00,"745 Highland Ave, Cheshire, CT 06410, USA",41.52,-72.90,5/23/2020
+Cheshire,Elim Park Baptist Home,90.00,39.00,10.00,2.00,"150 Cook Hill Rd, Cheshire, CT 06410, USA",41.47,-72.90,5/23/2020
+Chester,Aaron Manor Nursing and Rehabilitation,60.00,31.00,11.00,0.00,"3 S Wig Hill Rd, Chester, CT 06412, USA",41.40,-72.48,5/23/2020
+Chester,Chesterfields Health Care Center,60.00,0.00,0.00,1.00,"132 Main St, Chester, CT 06412, USA",41.40,-72.44,5/23/2020
+Cromwell,Autumn Lake Healthcare At Cromwell,175.00,74.00,5.00,6.00,"385 Main St, Cromwell, CT 06416, USA",41.60,-72.65,5/23/2020
+Cromwell,Apple Rehab Cromwell,85.00,30.00,6.00,2.00,"156 Berlin Rd, Cromwell, CT 06416, USA",41.61,-72.71,5/23/2020
+Danbury,Western Rehabilitation Care Center,120.00,49.00,12.00,6.00,"107 Osborne St, Danbury, CT 06810, USA",41.40,-73.44,5/23/2020
+Danbury,Saint John Paul II Center,141.00,87.00,32.00,2.00,"33 Lincoln Ave, Danbury, CT 06810, USA",41.39,-73.45,5/23/2020
+Danbury,Hancock Hall,96.00,1.00,1.00,0.00,"31 Staples St, Danbury, CT 06810, USA",41.40,-73.47,5/23/2020
+Danbury,Glen Hill Center,100.00,33.00,1.00,1.00,"1 Glen Hill Rd, Danbury, CT 06811, USA",41.41,-73.45,5/23/2020
+Danbury,Filosa Nursing & Rehabilitation,64.00,2.00,0.00,0.00,"13 Hakim St, Danbury, CT 06810, USA",41.40,-73.47,5/23/2020
+East Haddam,Chestelm Health and Rehabilitation Center,76.00,1.00,0.00,0.00,"534 Town St, Moodus, CT 06469, USA",41.49,-72.45,5/23/2020
+East Hartford,Riverside Health & Rehabilitation Center,345.00,121.00,38.00,19.00,"745 Main St, East Hartford, CT 06108, USA",41.77,-72.65,5/23/2020
+East Haven,Whispering Pines,90.00,59.00,12.00,13.00,"38 Talmadge Ave, East Haven, CT 06512, USA",41.26,-72.86,5/23/2020
+East Haven,Apple Rehab Laurel Woods,120.00,22.00,3.00,1.00,"451 N High St, East Haven, CT 06512, USA",41.29,-72.87,5/23/2020
+East Windsor,Fresh River Healthcare,140.00,95.00,15.00,5.00,"96 Prospect Hill Rd, East Windsor, CT 06088, USA",41.93,-72.61,5/23/2020
+Enfield,Parkway Pavilion Health and Rehabilitation Center,130.00,94.00,17.00,1.00,"1157 Enfield St, Enfield, CT 06082, USA",41.99,-72.59,5/23/2020
+Fairfield,Cambridge Health and Rehabilitation Center,160.00,58.00,14.00,8.00,"2428 Easton Turnpike, Fairfield, CT 06825, USA",41.21,-73.25,5/23/2020
+Fairfield,Carolton Chronic & Convalescent Hospital,229.00,84.00,26.00,3.00,"400 Mill Plain Rd, Fairfield, CT 06824, USA",41.15,-73.27,5/23/2020
+Fairfield,Ludlowe Center for Health & Rehabilitation,144.00,65.00,13.00,18.00,"118 Jefferson St, Fairfield, CT 06825, USA",41.22,-73.24,5/23/2020
+Farmington,Touchpoints at Farmington,105.00,84.00,17.00,2.00,"20 Scott Swamp Rd, Farmington, CT 06032, USA",41.71,-72.85,5/23/2020
+Farmington,Amberwoods of Farmington,130.00,1.00,1.00,0.00,"416 Colt Hwy, Farmington, CT 06032, USA",41.71,-72.80,5/23/2020
+Glastonbury,Salmon Brook Rehab and Nursing,130.00,36.00,14.00,2.00,"72 Salmon Brook Dr, Glastonbury, CT 06033, USA",41.72,-72.60,5/23/2020
+Glastonbury,Glastonbury Health Care Center,105.00,50.00,21.00,7.00,"1175 Hebron Ave, Glastonbury, CT 06033, USA",41.72,-72.57,5/23/2020
+Granby,Meadowbrook of Granby,90.00,1.00,0.00,1.00,"350 Salmon Brook St, Granby, CT 06035, USA",41.97,-72.79,5/23/2020
+Greenwich,RegalCare at Greenwich,75.00,5.00,2.00,0.00,"1188 King St, Greenwich, CT 06831, USA",41.06,-73.70,5/23/2020
+Greenwich,Greenwich Woods,217.00,35.00,7.00,3.00,"1165 King St, Greenwich, CT 06831, USA",41.06,-73.69,5/23/2020
+Greenwich,Nathaniel Witherall,202.00,50.00,9.00,1.00,"70 Parsonage Rd, Greenwich, CT 06830, USA",41.06,-73.63,5/23/2020
+Groton,Mystic Healthcare & Rehabilitation Center,100.00,53.00,9.00,7.00,"475 High St, Mystic, CT 06355, USA",41.36,-71.98,5/23/2020
+Guilford,Guilford House,75.00,1.00,0.00,0.00,"109 W Lake Ave, Guilford, CT 06437, USA",41.31,-72.72,5/23/2020
+Guilford,Apple Rehab Guilford,90.00,29.00,8.00,1.00,"10 Boston Post Rd, Guilford, CT 06437, USA",41.29,-72.65,5/23/2020
+Hamden,Whitney Rehabilitation Care Center,150.00,77.00,15.00,0.00,"2798 Whitney Ave, Hamden, CT 06518, USA",41.40,-72.90,5/23/2020
+Hamden,Arden House,360.00,170.00,28.00,1.00,"850 Mix Ave, Hamden, CT 06514, USA",41.38,-72.92,5/23/2020
+Hamden,Hamden Rehabilitation & Health Care Center,153.00,55.00,17.00,1.00,"1270 Sherman Ave, Hamden, CT 06514, USA",41.39,-72.92,5/23/2020
+Hamden,Whitney Center,59.00,0.00,1.00,0.00,"200 Leeder Hill Dr, Hamden, CT 06517, USA",41.35,-72.92,5/23/2020
+Hartford,Parkville Care Center,150.00,71.00,8.00,3.00,"5 Greenwood St, Hartford, CT 06106, USA",41.75,-72.71,5/23/2020
+Hartford,Avery Nursing Home/Noble Building,199.00,30.00,9.00,0.00,"550 Avery Heights, Hartford, CT 06106, USA",41.73,-72.71,5/23/2020
+Hartford,Trinity Hill Care Center,144.00,77.00,7.00,2.00,"151 Hillside Ave, Hartford, CT 06106, USA",41.75,-72.70,5/23/2020
+Hartford,Chelsea Place,234.00,79.00,17.00,11.00,"25 Lorraine St, Hartford, CT 06105, USA",41.77,-72.71,5/23/2020
+Madison,Madison House,89.00,46.00,12.00,3.00,"34 Wildwood Ave, Madison, CT 06443, USA",41.29,-72.64,5/23/2020
+Manchester,Touchpoints at Manchester,131.00,48.00,17.00,3.00,"333 Bidwell St, Manchester, CT 06040, USA",41.76,-72.55,5/23/2020
+Manchester,Manchester Manor Health Care Center,126.00,31.00,8.00,1.00,"385 W Center St, Manchester, CT 06040, USA",41.77,-72.55,5/23/2020
+Manchester,Crestfield Rehabilitation Center,155.00,41.00,9.00,2.00,"565 Vernon St, Manchester, CT 06042, USA",41.80,-72.49,5/23/2020
+Manchester,Westside Care Center,162.00,105.00,12.00,3.00,"349 Bidwell St, Manchester, CT 06040, USA",41.76,-72.54,5/23/2020
+Marlborough,Marlborough Health Care Center,120.00,34.00,1.00,0.00,"85 Stage Harbor Rd, Marlborough, CT 06447, USA",41.65,-72.48,5/23/2020
+Meriden,The Curtis Home,60.00,23.00,8.00,0.00,"380 Crown St, Meriden, CT 06450, USA",41.53,-72.80,5/23/2020
+Meriden,Apple Rehab Coccomo,100.00,45.00,9.00,6.00,"33 Cone Ave, Meriden, CT 06450, USA",41.52,-72.75,5/23/2020
+Meriden,Meriden Center,130.00,15.00,0.00,0.00,"845 Paddock Ave, Meriden, CT 06450, USA",41.51,-72.78,5/23/2020
+Meriden,Silver Springs Care Center,159.00,120.00,12.00,1.00,"33 Roy St, Meriden, CT 06450, USA",41.53,-72.80,5/23/2020
+Middletown,Apple Rehab Middletown,70.00,13.00,4.00,5.00,"600 Highland Ave, Middletown, CT 06457, USA",41.53,-72.66,5/23/2020
+Middletown,Middlesex Health Care Center,150.00,42.00,20.00,6.00,"100 Randolph Rd, Middletown, CT 06457, USA",41.54,-72.62,5/23/2020
+Middletown,Water's Edge Center for Health & Rehabilitation,150.00,83.00,10.00,5.00,"111 Church St, Middletown, CT 06457, USA",41.56,-72.65,5/23/2020
+Milford,Golden Hill Rehab Pavilion,120.00,82.00,18.00,6.00,"2028 Bridgeport Ave, Milford, CT 06460, USA",41.22,-73.07,5/23/2020
+Milford,West River Rehab Center,120.00,47.00,4.00,2.00,"245 Orange Ave, Milford, CT 06461, USA",41.24,-73.05,5/23/2020
+Milford,Milford Health and Rehabilitation Center,120.00,78.00,27.00,1.00,"195 Platt St, Milford, CT 06460, USA",41.21,-73.02,5/23/2020
+Naugatuck,Glendale Center,120.00,39.00,5.00,0.00,"4 Hazel Ave, Naugatuck, CT 06770, USA",41.47,-73.04,5/23/2020
+Naugatuck,Beacon Brook Health Center,126.00,101.00,16.00,0.00,"89 Weid Dr, Naugatuck, CT 06770, USA",41.47,-73.03,5/23/2020
+New Britain,Jerome Home,94.00,8.00,0.00,0.00,"975 Corbin Ave, New Britain, CT 06052, USA",41.66,-72.80,5/23/2020
+New Britain,Cassena Care at New Britain,90.00,70.00,9.00,3.00,"66 Clinic Dr, New Britain, CT 06051, USA",41.65,-72.79,5/23/2020
+New Britain,Autumn Lake Healthcare At New Britain,282.00,84.00,8.00,7.00,"400 Brittany Farms Rd, New Britain, CT 06053, USA",41.71,-72.77,5/23/2020
+New Britain,Grandview Rehabilitation and Healthcare Center,160.00,62.00,17.00,4.00,"55 Grand St, New Britain, CT 06052, USA",41.66,-72.79,5/23/2020
+New Canaan,Waveny Care Center,76.00,44.00,11.00,3.00,"3 Farm Rd, New Canaan, CT 06840, USA",41.13,-73.49,5/23/2020
+New Haven,Advanced Center For Nursing And Rehabilitation,226.00,96.00,5.00,0.00,"169 Davenport Ave, New Haven, CT 06519, USA",41.30,-72.94,5/23/2020
+New Haven,The Mary Wade Home,94.00,53.00,20.00,5.00,"118 Clinton Ave, New Haven, CT 06513, USA",41.31,-72.89,5/23/2020
+New Haven,Grimes Center,114.00,57.00,3.00,0.00,"1354 Chapel St, New Haven, CT 06511, USA",41.31,-72.94,5/23/2020
+New Haven,RegalCare at New Haven,150.00,54.00,6.00,0.00,"181 Clifton St, New Haven, CT 06513, USA",41.31,-72.88,5/23/2020
+Newington,Bel Air Manor,71.00,2.00,2.00,1.00,"256 New Britain Ave, Newington, CT 06111, USA",41.68,-72.73,5/23/2020
+Newington,Jefferson House,104.00,30.00,10.00,0.00,"1 John H Stewart Dr, Newington, CT 06111, USA",41.70,-72.71,5/23/2020
+Newington,Newington Rapid Recovery Rehab Center,180.00,75.00,13.00,8.00,"240 Church St, Newington, CT 06111, USA",41.67,-72.74,5/23/2020
+New London,Beechwood,60.00,2.00,0.00,0.00,"Beechwood Ln, New London, CT 06320, USA",41.31,-72.10,5/23/2020
+New London,Harbor Village,128.00,5.00,0.00,0.00,"78 Viets St, New London, CT 06320, USA",41.34,-72.11,5/23/2020
+New Milford,Candlewood Valley Health & Rehabilitation Center,148.00,2.00,2.00,0.00,"30 Park Ln E, New Milford, CT 06776, USA",41.60,-73.40,5/23/2020
+New Milford,Village Crest Center for Health & Rehabilitation,95.00,62.00,10.00,1.00,"19 Poplar St, New Milford, CT 06776, USA",41.58,-73.41,5/23/2020
+Newtown,Newtown Rehabilitation & Health Care Center,154.00,82.00,5.00,3.00,"139 Toddy Hill Rd, Newtown, CT 06470, USA",41.38,-73.26,5/23/2020
+Niantic,Bride Brook Health & Rehabilitation Center,130.00,100.00,14.00,6.00,"23 Liberty Way, Niantic, CT 06357, USA",41.32,-72.24,5/23/2020
+North Haven,Montowese Health & Rehabilitation Center,120.00,84.00,15.00,1.00,"163 Quinnipiac Ave, North Haven, CT 06473, USA",41.35,-72.86,5/23/2020
+Norwalk,Notre Dame Health and Rehabilitation Center,60.00,21.00,4.00,0.00,"76 W Rocks Rd, Norwalk, CT 06851, USA",41.13,-73.41,5/23/2020
+Norwalk,Cassena Care at Norwalk,150.00,62.00,21.00,2.00,"23 Prospect St, Norwalk, CT 06850, USA",41.11,-73.42,5/23/2020
+Norwalk,Autumn Lake Healthcare at Norwalk,150.00,59.00,19.00,6.00,"34 Midrocks Dr, Norwalk, CT 06851, USA",41.14,-73.41,5/23/2020
+Old Saybrook,Apple Rehab Saybrook,120.00,5.00,0.00,0.00,"1775 Boston Post Rd, Old Saybrook, CT 06475, USA",41.28,-72.42,5/23/2020
+Orange,Orange Health Care Center,60.00,43.00,3.00,0.00,"225 Boston Post Rd, Orange, CT 06477, USA",41.27,-73.00,5/23/2020
+Plainville,Apple Rehab Farmington Valley,160.00,25.00,9.00,1.00,"269 Farmington Ave, Plainville, CT 06062, USA",41.69,-72.85,5/23/2020
+Portland,Portland Care and Rehabilitation,65.00,19.00,7.00,2.00,"333 Main St, Portland, CT 06480, USA",41.58,-72.64,5/23/2020
+Redding,Ridge Crest at Meadow Ridge,62.00,10.00,7.00,1.00,"100 Redding Rd, Redding, CT 06896, USA",41.26,-73.43,5/23/2020
+Ridgefield,Laurel Ridge Health Care Center,126.00,29.00,9.00,1.00,"642 Danbury Rd, Ridgefield, CT 06877, USA",41.32,-73.47,5/23/2020
+Rocky Hill,Maple View Health & Rehabilitation Center,120.00,67.00,21.00,7.00,"856 Maple St, Rocky Hill, CT 06067, USA",41.67,-72.67,5/23/2020
+Rocky Hill,Apple Rehab Rocky Hill,120.00,76.00,18.00,1.00,"45 Elm St, Rocky Hill, CT 06067, USA",41.67,-72.64,5/23/2020
+Rocky Hill,60 West,95.00,46.00,5.00,0.00,"60 West St, Rocky Hill, CT 06067, USA",41.65,-72.64,5/23/2020
+Rocky Hill,John L. Levitow Health Care Center,125.00,5.00,2.00,0.00,"Rocky Hill, CT, USA",41.66,-72.67,5/23/2020
+Seymour,Shady Knoll Health Center,128.00,85.00,31.00,4.00,"41 Skokorat St, Seymour, CT 06483, USA",41.40,-73.06,5/23/2020
+Sharon,Sharon Health Care Center,88.00,6.00,0.00,0.00,"27 Hospital Hill Rd, Sharon, CT 06069, USA",41.88,-73.48,5/23/2020
+Shelton,Hewitt Health & Rehabilitation Center,120.00,78.00,21.00,4.00,"45 Maltby St, Shelton, CT 06484, USA",41.31,-73.09,5/23/2020
+Shelton,Apple Rehab Shelton Lakes,106.00,49.00,18.00,3.00,"5 Lake Rd, Shelton, CT 06484, USA",41.31,-73.11,5/23/2020
+Shelton,Bishop-Wicke Health and Rehabilitation,120.00,30.00,17.00,14.00,"584 Long Hill Ave, Shelton, CT 06484, USA",41.28,-73.10,5/23/2020
+Shelton,Gardner Heights Health Care Center,130.00,50.00,23.00,3.00,"172 Rocky Rest Rd, Shelton, CT 06484, USA",41.29,-73.10,5/23/2020
+Simsbury,Governor's House,70.00,8.00,1.00,0.00,"36 Firetown Rd, Simsbury, CT 06070, USA",41.87,-72.81,5/23/2020
+Simsbury,McLean Health Center,89.00,24.00,5.00,1.00,"75 Great Pond Rd, Simsbury, CT 06070, USA",41.89,-72.83,5/23/2020
+Southbury,Lutheran Home of Southbury,120.00,42.00,16.00,1.00,"990 Main St N, Southbury, CT 06488, USA",41.50,-73.21,5/23/2020
+Southington,Southington Care Center,130.00,51.00,5.00,1.00,"45 Meriden Ave, Southington, CT 06489, USA",41.60,-72.88,5/23/2020
+Southington,Summit at Plantsville,150.00,51.00,12.00,3.00,"261 Summit St, Plantsville, CT 06479, USA",41.59,-72.89,5/23/2020
+Southport,RegalCare at Southport,120.00,53.00,10.00,1.00,"930 Mill Hill Terrace, Southport, CT 06890, USA",41.15,-73.29,5/23/2020
+Stafford Springs,Evergreen Health Care Center,180.00,52.00,14.00,2.00,"205 Chestnut Hill Rd, Stafford Springs, CT 06076, USA",41.98,-72.39,5/23/2020
+Stamford,St. Camillus Center,124.00,50.00,15.00,3.00,"494 Elm St, Stamford, CT 06902, USA",41.05,-73.53,5/23/2020
+Stamford,Cassena Care at Stamford,156.00,77.00,18.00,3.00,"53 Courtland Ave, Stamford, CT 06902, USA",41.06,-73.51,5/23/2020
+Stamford,The Villa at Stamford,128.00,29.00,5.00,1.00,"88 Rock Rimmon Rd, Stamford, CT 06903, USA",41.14,-73.56,5/23/2020
+Stamford,Edgehill Health Center,46.00,18.00,6.00,2.00,"122 Palmer Hill Rd, Stamford, CT 06902, USA",41.06,-73.57,5/23/2020
+Stamford,Long Ridge Post-Acute Care,120.00,61.00,19.00,1.00,"710 Long Ridge Rd, Stamford, CT 06902, USA",41.09,-73.56,5/23/2020
+Stratford,Lord Chamberlain Nursing and Rehabilitation Center,190.00,98.00,29.00,3.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,5/23/2020
+Stratford,Lord Chamberlain Manor,60.00,17.00,4.00,0.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,5/23/2020
+Suffield,Suffield House,128.00,45.00,10.00,7.00,"1 Canal Rd, Suffield, CT 06078, USA",41.98,-72.61,5/23/2020
+Tolland,Woodlake at Tolland Rehabilitation and Nursing Center,130.00,0.00,0.00,1.00,"26 Shenipsit Lake Rd, Tolland, CT 06084, USA",41.87,-72.41,5/23/2020
+Torrington,Wolcott Hall Nursing Center,60.00,13.00,4.00,1.00,"215 Forest St, Torrington, CT 06790, USA",41.81,-73.13,5/23/2020
+Torrington,Litchfield Woods,160.00,127.00,29.00,3.00,"255 Roberts St, Torrington, CT 06790, USA",41.81,-73.14,5/23/2020
+Torrington,RegalCare at Torrington,75.00,33.00,8.00,0.00,"80 Fern Dr, Torrington, CT 06790, USA",41.81,-73.11,5/23/2020
+Torrington,Valerie Manor,151.00,77.00,11.00,6.00,"1360 Torringford St, Torrington, CT 06790, USA",41.83,-73.08,5/23/2020
+Trumbull,Maefair Health Care Center,134.00,88.00,18.00,12.00,"21 Maefair Ct, Trumbull, CT 06611, USA",41.24,-73.19,5/23/2020
+Trumbull,St. Joseph's Center,269.00,121.00,23.00,8.00,"6448 Main St, Trumbull, CT 06611, USA",41.28,-73.23,5/23/2020
+Vernon,Fox Hill Center,150.00,68.00,15.00,1.00,"1253 Hartford Turnpike, Vernon, CT 06066, USA",41.86,-72.44,5/23/2020
+Wallingford,Skyview Rehab and Nursing,97.00,57.00,5.00,0.00,"35 Marc Dr, Wallingford, CT 06492, USA",41.45,-72.85,5/23/2020
+Wallingford,Masonicare Health Center,357.00,8.00,1.00,0.00,"22 Masonic Ave, Wallingford, CT 06492, USA",41.46,-72.84,5/23/2020
+Wallingford,Quinnipiac Valley Center,180.00,66.00,9.00,1.00,"55 Kondracki Ln, Wallingford, CT 06492, USA",41.43,-72.81,5/23/2020
+Wallingford,Regency House Nursing and Rehabilitation Center,130.00,81.00,29.00,5.00,"181 E Main St, Wallingford, CT 06492, USA",41.45,-72.80,5/23/2020
+Waterbury,RegalCare at Waterbury,120.00,60.00,11.00,0.00,"177 Whitewood Rd, Waterbury, CT 06708, USA",41.58,-73.08,5/23/2020
+Waterbury,Cheshire House Health Care Facility & Rehabilitation Center,75.00,25.00,5.00,5.00,"3396 E Main St, Waterbury, CT 06705, USA",41.54,-72.98,5/23/2020
+Waterbury,Autumn Lake Healthcare At Bucks Hill,90.00,16.00,2.00,1.00,"2817 N Main St, Waterbury, CT 06704, USA",41.59,-73.03,5/23/2020
+Waterbury,Abbott Terrace Health Center,205.00,115.00,35.00,8.00,"44 Abbott Terrace, Waterbury, CT 06702, USA",41.56,-73.04,5/23/2020
+Waterbury,Grove Manor Nursing Home,60.00,7.00,1.00,0.00,"145 Grove St, Waterbury, CT 06710, USA",41.56,-73.04,5/23/2020
+Waterbury,Waterbury Gardens Nursing and Rehabilitation,150.00,40.00,13.00,1.00,"128 Cedar Ave, Waterbury, CT 06705, USA",41.55,-73.00,5/23/2020
+Waterford,Greentree Manor Nursing and Rehabilitation,90.00,10.00,0.00,0.00,"4 Greentree Dr, Waterford, CT 06385, USA",41.39,-72.15,5/23/2020
+Waterford,Bayview Health Care,127.00,40.00,7.00,0.00,"301 Rope Ferry Rd, Waterford, CT 06385, USA",41.33,-72.17,5/23/2020
+Waterford,New London Sub-Acute and Nursing,120.00,79.00,4.00,1.00,"88 Clark Ln, Waterford, CT 06385, USA",41.35,-72.13,5/23/2020
+Watertown,Apple Rehab Watertown,110.00,1.00,2.00,0.00,"35 Bunker Hill Rd, Watertown, CT 06795, USA",41.58,-73.10,5/23/2020
+West Hartford,Saint Mary Home,256.00,95.00,13.00,12.00,"2021 Albany Ave, West Hartford, CT 06117, USA",41.78,-72.73,5/23/2020
+West Hartford,West Hartford Health and Rehabilitation Center,160.00,33.00,12.00,7.00,"130 Loomis Dr, West Hartford, CT 06107, USA",41.77,-72.74,5/23/2020
+West Hartford,The Reservoir,75.00,25.00,2.00,0.00,"1 Emily Way, West Hartford, CT 06107, USA",41.74,-72.78,5/23/2020
+West Hartford,Hebrew Center for Health and Rehabilitation,257.00,41.00,5.00,5.00,"1 Abrahms Blvd, West Hartford, CT 06117, USA",41.80,-72.73,5/23/2020
+West Hartford,Hughes Health and Rehabilitation,170.00,37.00,15.00,3.00,"29 Highland St, West Hartford, CT 06119, USA",41.77,-72.72,5/23/2020
+West Haven,Apple Rehab West Haven,90.00,55.00,9.00,1.00,"308 Savin Ave, West Haven, CT 06516, USA",41.26,-72.95,5/23/2020
+West Haven,RegalCare at West Haven,98.00,25.00,7.00,0.00,"310 Terrace Ave, West Haven, CT 06516, USA",41.28,-72.97,5/23/2020
+Westport,Westport Rehabilitation Complex,99.00,37.00,9.00,4.00,"1 Burr Rd, Westport, CT 06880, USA",41.14,-73.37,5/23/2020
+Wilton,Wilton Meadows Health Care Center,148.00,28.00,7.00,19.00,"439 Danbury Rd, Wilton, CT 06897, USA",41.22,-73.43,5/23/2020
+Windham,St. Joseph's Living Center,120.00,27.00,8.00,0.00,"14 Club Rd, Windham, CT 06280, USA",41.71,-72.19,5/23/2020
+Windsor,Windsor Health and Rehabilitation Center,108.00,50.00,19.00,2.00,"581 Poquonock Ave, Windsor, CT 06095, USA",41.87,-72.66,5/23/2020
+Windsor,Kimberly Hall North,150.00,91.00,17.00,26.00,"1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,5/23/2020
+Windsor,Kimberly Hall South,180.00,75.00,12.00,2.00,"South, 1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,5/23/2020
+Windsor Locks,Bickford Health Care Center,48.00,33.00,9.00,1.00,"14 Main St, Windsor Locks, CT 06096, USA",41.93,-72.63,5/23/2020
+Woodbridge,The Willows,90.00,62.00,17.00,1.00,"225 Amity Rd, Woodbridge, CT 06525, USA",41.34,-72.98,5/23/2020
+Avon,Apple Rehab Avon,60.00,23.00,6.00,1.00,"220 Scoville Rd, Avon, CT 06001, USA",41.78,-72.86,5/27/2020
+Avon,Avon Health Center,120.00,49.00,0.00,6.00,"652 W Avon Rd, Avon, CT 06001, USA",41.77,-72.86,5/27/2020
+Berlin,Ledgecrest Health Care,60.00,34.00,5.00,1.00,"154 Kensington Rd, Berlin, CT 06037, USA",41.63,-72.77,5/27/2020
+Bethel,Bethel Health Care Center,161.00,59.00,9.00,5.00,"13 Park Lawn Dr, Bethel, CT 06801, USA",41.42,-73.40,5/27/2020
+Bloomfield,Bloomfield Center for Nursing and Rehabilitation,120.00,47.00,9.00,9.00,"355 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.71,5/27/2020
+Bloomfield,Caleb Hitchcock Health Center,60.00,5.00,4.00,0.00,"10 Loeffler Rd, Bloomfield, CT 06002, USA",41.83,-72.76,5/27/2020
+Bloomfield,Seabury,72.00,33.00,14.00,0.00,"72 Seabury Dr, Bloomfield, CT 06002, USA",41.83,-72.71,5/27/2020
+Bloomfield,Touchpoints at Bloomfield,150.00,71.00,14.00,2.00,"140 Park Ave, Bloomfield, CT 06002, USA",41.82,-72.70,5/27/2020
+Branford,Branford Hills Health Care Center,190.00,100.00,23.00,0.00,"189 Alps Rd #4771, Branford, CT 06405, USA",41.27,-72.85,5/27/2020
+Bridgeport,Jewish Senior Services,294.00,87.00,19.00,2.00,"4200 Park Ave, Bridgeport, CT 06604, USA",41.21,-73.23,5/27/2020
+Bridgeport,Northbridge Healthcare Center,145.00,37.00,7.00,7.00,"2875 Main St, Bridgeport, CT 06606, USA",41.20,-73.20,5/27/2020
+Bridgeport,Springs at Watermark 3030 Park,23.00,11.00,3.00,0.00,"3030 Park Ave, Bridgeport, CT 06604, USA",41.20,-73.22,5/27/2020
+Bristol,Countryside Manor of Bristol,90.00,71.00,23.00,2.00,"1660 Stafford Ave, Bristol, CT 06010, USA",41.72,-72.91,5/27/2020
+Bristol,Ingraham Manor,128.00,7.00,0.00,1.00,"400 N Main St, Bristol, CT 06010, USA",41.68,-72.95,5/27/2020
+Bristol,Pines At Bristol Center for Nursing & Rehabilitation,132.00,38.00,3.00,0.00,"61 Bellevue Ave, Bristol, CT 06010, USA",41.68,-72.94,5/27/2020
+Bristol,Sheridan Woods Health Care Center,146.00,73.00,27.00,3.00,"321 Stonecrest Dr, Bristol, CT 06010, USA",41.68,-72.92,5/27/2020
+Canaan,Geer Nursing And Rehabilitation Center,120.00,2.00,0.00,0.00,"99 S Canaan Rd, North Canaan, CT 06018, USA",42.01,-73.33,5/27/2020
+Canton,Cherry Brook Health Care Center,100.00,57.00,18.00,5.00,"102 Dyer Ave, Canton, CT 06019, USA",41.83,-72.92,5/27/2020
+Cheshire,Cheshire Regional Rehab Center,85.00,2.00,0.00,0.00,"745 Highland Ave, Cheshire, CT 06410, USA",41.52,-72.90,5/27/2020
+Cheshire,Elim Park Baptist Home,90.00,41.00,10.00,2.00,"150 Cook Hill Rd, Cheshire, CT 06410, USA",41.47,-72.90,5/27/2020
+Chester,Aaron Manor Nursing and Rehabilitation,60.00,30.00,12.00,0.00,"3 S Wig Hill Rd, Chester, CT 06412, USA",41.40,-72.48,5/27/2020
+Chester,Chesterfields Health Care Center,60.00,0.00,0.00,1.00,"132 Main St, Chester, CT 06412, USA",41.40,-72.44,5/27/2020
+Cromwell,Apple Rehab Cromwell,85.00,30.00,6.00,2.00,"156 Berlin Rd, Cromwell, CT 06416, USA",41.61,-72.71,5/27/2020
+Cromwell,Autumn Lake Healthcare At Cromwell,175.00,77.00,8.00,8.00,"385 Main St, Cromwell, CT 06416, USA",41.60,-72.65,5/27/2020
+Danbury,Filosa Nursing & Rehabilitation,64.00,2.00,0.00,0.00,"13 Hakim St, Danbury, CT 06810, USA",41.40,-73.47,5/27/2020
+Danbury,Glen Hill Center,100.00,34.00,4.00,1.00,"1 Glen Hill Rd, Danbury, CT 06811, USA",41.41,-73.45,5/27/2020
+Danbury,Hancock Hall,96.00,1.00,1.00,0.00,"31 Staples St, Danbury, CT 06810, USA",41.40,-73.47,5/27/2020
+Danbury,Saint John Paul II Center,141.00,87.00,34.00,3.00,"33 Lincoln Ave, Danbury, CT 06810, USA",41.39,-73.45,5/27/2020
+Danbury,Western Rehabilitation Care Center,120.00,76.00,13.00,7.00,"107 Osborne St, Danbury, CT 06810, USA",41.40,-73.44,5/27/2020
+East Haddam,Chestelm Health and Rehabilitation Center,76.00,1.00,0.00,0.00,"534 Town St, Moodus, CT 06469, USA",41.49,-72.45,5/27/2020
+East Hartford,Riverside Health & Rehabilitation Center,345.00,152.00,38.00,19.00,"745 Main St, East Hartford, CT 06108, USA",41.77,-72.65,5/27/2020
+East Haven,Apple Rehab Laurel Woods,120.00,22.00,3.00,1.00,"451 N High St, East Haven, CT 06512, USA",41.29,-72.87,5/27/2020
+East Haven,Whispering Pines,90.00,59.00,13.00,13.00,"90 Whispering Pines Dr, Plantsville, CT 06479, USA",41.59,-72.92,5/27/2020
+East Windsor,Fresh River Healthcare,140.00,96.00,17.00,6.00,"96 Prospect Hill Rd, East Windsor, CT 06088, USA",41.93,-72.61,5/27/2020
+Enfield,Parkway Pavilion Health and Rehabilitation Center,130.00,94.00,18.00,1.00,"1157 Enfield St, Enfield, CT 06082, USA",41.99,-72.59,5/27/2020
+Essex,Essex Meadows Health Center,45.00,1.00,0.00,0.00,"30 Bokum Rd, Essex, CT 06426, USA",41.34,-72.41,5/27/2020
+Fairfield,Cambridge Health and Rehabilitation Center,160.00,59.00,16.00,11.00,"2428 Easton Turnpike, Fairfield, CT 06825, USA",41.21,-73.25,5/27/2020
+Fairfield,Carolton Chronic & Convalescent Hospital,229.00,84.00,31.00,3.00,"400 Mill Plain Rd, Fairfield, CT 06824, USA",41.15,-73.27,5/27/2020
+Fairfield,Ludlowe Center for Health & Rehabilitation,144.00,65.00,15.00,19.00,"118 Jefferson St, Fairfield, CT 06825, USA",41.22,-73.24,5/27/2020
+Farmington,Amberwoods of Farmington,130.00,1.00,1.00,0.00,"416 Colt Hwy, Farmington, CT 06032, USA",41.71,-72.80,5/27/2020
+Farmington,Touchpoints at Farmington,105.00,84.00,17.00,2.00,"20 Scott Swamp Rd, Farmington, CT 06032, USA",41.71,-72.85,5/27/2020
+Glastonbury,Glastonbury Health Care Center,105.00,50.00,21.00,7.00,"1175 Hebron Ave, Glastonbury, CT 06033, USA",41.72,-72.57,5/27/2020
+Glastonbury,Salmon Brook Rehab and Nursing,130.00,36.00,14.00,3.00,"72 Salmon Brook Dr, Glastonbury, CT 06033, USA",41.72,-72.60,5/27/2020
+Granby,Meadowbrook of Granby,90.00,1.00,0.00,1.00,"350 Salmon Brook St, Granby, CT 06035, USA",41.97,-72.79,5/27/2020
+Greenwich,Greenwich Woods,217.00,36.00,8.00,3.00,"1165 King St, Greenwich, CT 06831, USA",41.06,-73.69,5/27/2020
+Greenwich,Nathaniel Witherall,202.00,53.00,9.00,1.00,"70 Parsonage Rd, Greenwich, CT 06830, USA",41.06,-73.63,5/27/2020
+Greenwich,RegalCare at Greenwich,75.00,5.00,2.00,0.00,"1188 King St, Greenwich, CT 06831, USA",41.06,-73.70,5/27/2020
+Groton,Groton Regency,162.00,1.00,0.00,0.00,"1145 Poquonnock Rd, Groton, CT 06340, USA",41.35,-72.04,5/27/2020
+Groton,Mystic Healthcare & Rehabilitation Center,100.00,53.00,10.00,6.00,"475 High St, Mystic, CT 06355, USA",41.36,-71.98,5/27/2020
+Guilford,Apple Rehab Guilford,90.00,29.00,8.00,1.00,"10 Boston Post Rd, Guilford, CT 06437, USA",41.29,-72.65,5/27/2020
+Guilford,Guilford House,75.00,1.00,0.00,0.00,"109 W Lake Ave, Guilford, CT 06437, USA",41.31,-72.72,5/27/2020
+Hamden,Arden House,360.00,170.00,34.00,5.00,"850 Mix Ave, Hamden, CT 06514, USA",41.38,-72.92,5/27/2020
+Hamden,Hamden Rehabilitation & Health Care Center,153.00,57.00,18.00,1.00,"1270 Sherman Ave, Hamden, CT 06514, USA",41.39,-72.92,5/27/2020
+Hamden,Whitney Center,59.00,0.00,1.00,0.00,"200 Leeder Hill Dr, Hamden, CT 06517, USA",41.35,-72.92,5/27/2020
+Hamden,Whitney Rehabilitation Care Center,150.00,77.00,17.00,0.00,"2798 Whitney Ave, Hamden, CT 06518, USA",41.40,-72.90,5/27/2020
+Hartford,Avery Nursing Home/Noble Building,199.00,53.00,10.00,0.00,"Connecticut, USA",41.60,-73.09,5/27/2020
+Hartford,Chelsea Place,234.00,83.00,18.00,11.00,"25 Lorraine St, Hartford, CT 06105, USA",41.77,-72.71,5/27/2020
+Hartford,Parkville Care Center,150.00,73.00,8.00,3.00,"5 Greenwood St, Hartford, CT 06106, USA",41.75,-72.71,5/27/2020
+Hartford,Trinity Hill Care Center,144.00,77.00,9.00,1.00,"151 Hillside Ave, Hartford, CT 06106, USA",41.75,-72.70,5/27/2020
+Madison,Madison House,89.00,46.00,13.00,3.00,"34 Wildwood Ave, Madison, CT 06443, USA",41.29,-72.64,5/27/2020
+Manchester,Crestfield Rehabilitation Center,155.00,42.00,8.00,2.00,"565 Vernon St, Manchester, CT 06042, USA",41.80,-72.49,5/27/2020
+Manchester,Manchester Manor Health Care Center,126.00,42.00,11.00,3.00,"385 W Center St, Manchester, CT 06040, USA",41.77,-72.55,5/27/2020
+Manchester,Touchpoints at Manchester,131.00,55.00,16.00,3.00,"333 Bidwell St, Manchester, CT 06040, USA",41.76,-72.55,5/27/2020
+Manchester,Westside Care Center,162.00,106.00,13.00,6.00,"349 Bidwell St, Manchester, CT 06040, USA",41.76,-72.54,5/27/2020
+Marlborough,Marlborough Health Care Center,120.00,51.00,5.00,1.00,"85 Stage Harbor Rd, Marlborough, CT 06447, USA",41.65,-72.48,5/27/2020
+Meriden,Apple Rehab Coccomo,100.00,46.00,12.00,6.00,"33 Cone Ave, Meriden, CT 06450, USA",41.52,-72.75,5/27/2020
+Meriden,Meriden Center,130.00,14.00,0.00,0.00,"845 Paddock Ave, Meriden, CT 06450, USA",41.51,-72.78,5/27/2020
+Meriden,Silver Springs Care Center,159.00,121.00,14.00,3.00,"33 Roy St, Meriden, CT 06450, USA",41.53,-72.80,5/27/2020
+Meriden,The Curtis Home,60.00,23.00,8.00,0.00,"380 Crown St, Meriden, CT 06450, USA",41.53,-72.80,5/27/2020
+Middletown,Apple Rehab Middletown,70.00,30.00,4.00,5.00,"600 Highland Ave, Middletown, CT 06457, USA",41.53,-72.66,5/27/2020
+Middletown,Middlesex Health Care Center,150.00,42.00,21.00,6.00,"100 Randolph Rd, Middletown, CT 06457, USA",41.54,-72.62,5/27/2020
+Middletown,Water's Edge Center for Health & Rehabilitation,150.00,83.00,12.00,4.00,"111 Church St, Middletown, CT 06457, USA",41.56,-72.65,5/27/2020
+Milford,Golden Hill Rehab Pavilion,120.00,82.00,19.00,6.00,"2028 Bridgeport Ave, Milford, CT 06460, USA",41.22,-73.07,5/27/2020
+Milford,Milford Health and Rehabilitation Center,120.00,87.00,26.00,1.00,"195 Platt St, Milford, CT 06460, USA",41.21,-73.02,5/27/2020
+Milford,West River Rehab Center,120.00,49.00,4.00,2.00,"245 Orange Ave, Milford, CT 06461, USA",41.24,-73.05,5/27/2020
+Naugatuck,Beacon Brook Health Center,126.00,104.00,19.00,2.00,"89 Weid Dr, Naugatuck, CT 06770, USA",41.47,-73.03,5/27/2020
+Naugatuck,Glendale Center,120.00,39.00,5.00,1.00,"4 Hazel Ave, Naugatuck, CT 06770, USA",41.47,-73.04,5/27/2020
+New Britain,Autumn Lake Healthcare At New Britain,282.00,105.00,10.00,8.00,"400 Brittany Farms Rd, New Britain, CT 06053, USA",41.71,-72.77,5/27/2020
+New Britain,Cassena Care at New Britain,90.00,72.00,13.00,3.00,"66 Clinic Dr, New Britain, CT 06051, USA",41.65,-72.79,5/27/2020
+New Britain,Grandview Rehabilitation and Healthcare Center,160.00,62.00,17.00,4.00,"55 Grand St, New Britain, CT 06052, USA",41.66,-72.79,5/27/2020
+New Britain,Jerome Home,94.00,8.00,0.00,0.00,"975 Corbin Ave, New Britain, CT 06052, USA",41.66,-72.80,5/27/2020
+New Canaan,Waveny Care Center,76.00,44.00,11.00,3.00,"3 Farm Rd, New Canaan, CT 06840, USA",41.13,-73.49,5/27/2020
+New Haven,Advanced Center For Nursing And Rehabilitation,226.00,96.00,9.00,0.00,"169 Davenport Ave, New Haven, CT 06519, USA",41.30,-72.94,5/27/2020
+New Haven,Grimes Center,114.00,57.00,2.00,0.00,"1354 Chapel St, New Haven, CT 06511, USA",41.31,-72.94,5/27/2020
+New Haven,RegalCare at New Haven,150.00,54.00,7.00,0.00,"181 Clifton St, New Haven, CT 06513, USA",41.31,-72.88,5/27/2020
+New Haven,The Mary Wade Home,94.00,55.00,22.00,6.00,"118 Clinton Ave, New Haven, CT 06513, USA",41.31,-72.89,5/27/2020
+New London,Beechwood,60.00,2.00,0.00,0.00,"60 Beechwood Rd, West Hartford, CT 06107, USA",41.74,-72.75,5/27/2020
+New London,Harbor Village,128.00,5.00,1.00,0.00,"78 Viets St, New London, CT 06320, USA",41.34,-72.11,5/27/2020
+New Milford,Candlewood Valley Health & Rehabilitation Center,148.00,2.00,2.00,0.00,"30 Park Ln E, New Milford, CT 06776, USA",41.60,-73.40,5/27/2020
+New Milford,Village Crest Center for Health & Rehabilitation,95.00,62.00,11.00,1.00,"19 Poplar St, New Milford, CT 06776, USA",41.58,-73.41,5/27/2020
+Newington,Bel Air Manor,71.00,2.00,2.00,1.00,"256 New Britain Ave, Newington, CT 06111, USA",41.68,-72.73,5/27/2020
+Newington,Jefferson House,104.00,30.00,10.00,0.00,"1 John H Stewart Dr, Newington, CT 06111, USA",41.70,-72.71,5/27/2020
+Newington,Newington Rapid Recovery Rehab Center,180.00,75.00,13.00,8.00,"240 Church St, Newington, CT 06111, USA",41.67,-72.74,5/27/2020
+Newtown,Newtown Rehabilitation & Health Care Center,154.00,88.00,6.00,4.00,"139 Toddy Hill Rd, Newtown, CT 06470, USA",41.38,-73.26,5/27/2020
+East Lyme,Bride Brook Health & Rehabilitation Center,130.00,100.00,20.00,7.00,"23 Liberty Way, Niantic, CT 06357, USA",41.32,-72.24,5/27/2020
+North Haven,Montowese Health & Rehabilitation Center,120.00,84.00,18.00,1.00,"163 Quinnipiac Ave, North Haven, CT 06473, USA",41.35,-72.86,5/27/2020
+Norwalk,Autumn Lake Healthcare at Norwalk,150.00,61.00,19.00,6.00,"34 Midrocks Dr, Norwalk, CT 06851, USA",41.14,-73.41,5/27/2020
+Norwalk,Cassena Care at Norwalk,150.00,67.00,23.00,2.00,"23 Prospect St, Norwalk, CT 06850, USA",41.11,-73.42,5/27/2020
+Norwalk,Notre Dame Health and Rehabilitation Center,60.00,26.00,7.00,1.00,"76 W Rocks Rd, Norwalk, CT 06851, USA",41.13,-73.41,5/27/2020
+Norwich,Norwich Sub-Acute And Nursing,120.00,2.00,0.00,0.00,"93 W Town St, Norwich, CT 06360, USA",41.55,-72.10,5/27/2020
+Old Saybrook,Apple Rehab Saybrook,120.00,38.00,5.00,0.00,"1775 Boston Post Rd, Old Saybrook, CT 06475, USA",41.28,-72.42,5/27/2020
+Orange,Orange Health Care Center,60.00,43.00,4.00,0.00,"225 Boston Post Rd, Orange, CT 06477, USA",41.27,-73.00,5/27/2020
+Plainville,Apple Rehab Farmington Valley,160.00,29.00,9.00,1.00,"269 Farmington Ave, Plainville, CT 06062, USA",41.69,-72.85,5/27/2020
+Portland,Portland Care and Rehabilitation,65.00,19.00,7.00,2.00,"333 Main St, Portland, CT 06480, USA",41.58,-72.64,5/27/2020
+Redding,Ridge Crest at Meadow Ridge,62.00,10.00,7.00,1.00,"100 Redding Rd, Redding, CT 06896, USA",41.26,-73.43,5/27/2020
+Ridgefield,Laurel Ridge Health Care Center,126.00,29.00,10.00,1.00,"642 Danbury Rd, Ridgefield, CT 06877, USA",41.32,-73.47,5/27/2020
+Rocky Hill,60 West,95.00,46.00,6.00,0.00,"60 West St, Rocky Hill, CT 06067, USA",41.65,-72.64,5/27/2020
+Rocky Hill,Apple Rehab Rocky Hill,120.00,76.00,21.00,1.00,"45 Elm St, Rocky Hill, CT 06067, USA",41.67,-72.64,5/27/2020
+Rocky Hill,John L. Levitow Health Care Center,125.00,5.00,2.00,0.00,"Connecticut, USA",41.60,-73.09,5/27/2020
+Rocky Hill,Maple View Health & Rehabilitation Center,120.00,67.00,21.00,6.00,"856 Maple St, Rocky Hill, CT 06067, USA",41.67,-72.67,5/27/2020
+Seymour,Shady Knoll Health Center,128.00,86.00,33.00,7.00,"41 Skokorat St, Seymour, CT 06483, USA",41.40,-73.06,5/27/2020
+Sharon,Sharon Health Care Center,88.00,6.00,0.00,0.00,"27 Hospital Hill Rd, Sharon, CT 06069, USA",41.88,-73.48,5/27/2020
+Shelton,Apple Rehab Shelton Lakes,106.00,49.00,18.00,3.00,"5 Lake Rd, Shelton, CT 06484, USA",41.31,-73.11,5/27/2020
+Shelton,Bishop-Wicke Health and Rehabilitation,120.00,30.00,17.00,14.00,"584 Long Hill Ave, Shelton, CT 06484, USA",41.28,-73.10,5/27/2020
+Shelton,Gardner Heights Health Care Center,130.00,50.00,22.00,3.00,"172 Rocky Rest Rd, Shelton, CT 06484, USA",41.29,-73.10,5/27/2020
+Shelton,Hewitt Health & Rehabilitation Center,120.00,78.00,25.00,4.00,"45 Maltby St, Shelton, CT 06484, USA",41.31,-73.09,5/27/2020
+Simsbury,Governor's House,70.00,8.00,1.00,0.00,"990 Prospect Ave, Hartford, CT 06105, USA",41.78,-72.71,5/27/2020
+Simsbury,McLean Health Center,89.00,24.00,5.00,1.00,"4 Park Terrace, Hartford, CT 06106, USA",41.76,-72.69,5/27/2020
+Southbury,Lutheran Home of Southbury,120.00,61.00,18.00,1.00,"990 Main St N, Southbury, CT 06488, USA",41.50,-73.21,5/27/2020
+Southington,Southington Care Center,130.00,56.00,5.00,1.00,"45 Meriden Ave, Southington, CT 06489, USA",41.60,-72.88,5/27/2020
+Southington,Summit at Plantsville,150.00,57.00,13.00,3.00,"261 Summit St, Plantsville, CT 06479, USA",41.59,-72.89,5/27/2020
+Fairfield,RegalCare at Southport,120.00,53.00,10.00,1.00,"930 Mill Hill Terrace, Southport, CT 06890, USA",41.15,-73.29,5/27/2020
+Stafford,Evergreen Health Care Center,180.00,62.00,14.00,2.00,"205 Chestnut Hill Rd, Stafford Springs, CT 06076, USA",41.98,-72.39,5/27/2020
+Stamford,Cassena Care at Stamford,156.00,77.00,18.00,3.00,"53 Courtland Ave, Stamford, CT 06902, USA",41.06,-73.51,5/27/2020
+Stamford,Edgehill Health Center,46.00,18.00,4.00,2.00,"122 Palmer Hill Rd, Stamford, CT 06902, USA",41.06,-73.57,5/27/2020
+Stamford,Long Ridge Post-Acute Care,120.00,62.00,20.00,1.00,"710 Long Ridge Rd, Stamford, CT 06902, USA",41.09,-73.56,5/27/2020
+Stamford,St. Camillus Center,124.00,60.00,15.00,3.00,"494 Elm St, Stamford, CT 06902, USA",41.05,-73.53,5/27/2020
+Stamford,The Villa at Stamford,128.00,34.00,5.00,2.00,"88 Rock Rimmon Rd, Stamford, CT 06903, USA",41.14,-73.56,5/27/2020
+Stratford,Lord Chamberlain Manor,60.00,17.00,6.00,0.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,5/27/2020
+Stratford,Lord Chamberlain Nursing and Rehabilitation Center,190.00,98.00,28.00,3.00,"7003 Main St, Stratford, CT 06614, USA",41.25,-73.10,5/27/2020
+Suffield,Suffield House,128.00,45.00,11.00,7.00,"1 Canal Rd, Suffield, CT 06078, USA",41.98,-72.61,5/27/2020
+Torrington,Litchfield Woods,160.00,127.00,34.00,4.00,"255 Roberts St, Torrington, CT 06790, USA",41.81,-73.14,5/27/2020
+Torrington,RegalCare at Torrington,75.00,33.00,8.00,0.00,"80 Fern Dr, Torrington, CT 06790, USA",41.81,-73.11,5/27/2020
+Torrington,Valerie Manor,151.00,93.00,14.00,5.00,"1360 Torringford St, Torrington, CT 06790, USA",41.83,-73.08,5/27/2020
+Torrington,Wolcott Hall Nursing Center,60.00,18.00,5.00,1.00,"215 Forest St, Torrington, CT 06790, USA",41.81,-73.13,5/27/2020
+Trumbull,Maefair Health Care Center,134.00,88.00,20.00,14.00,"21 Maefair Ct, Trumbull, CT 06611, USA",41.24,-73.19,5/27/2020
+Trumbull,St. Joseph's Center,269.00,121.00,26.00,9.00,"6448 Main St, Trumbull, CT 06611, USA",41.28,-73.23,5/27/2020
+Vernon,Fox Hill Center,150.00,68.00,15.00,1.00,"1253 Hartford Turnpike, Vernon, CT 06066, USA",41.86,-72.44,5/27/2020
+Wallingford,Masonicare Health Center,357.00,8.00,3.00,0.00,"22 Masonic Ave, Wallingford, CT 06492, USA",41.46,-72.84,5/27/2020
+Wallingford,Quinnipiac Valley Center,180.00,66.00,10.00,1.00,"55 Kondracki Ln, Wallingford, CT 06492, USA",41.43,-72.81,5/27/2020
+Wallingford,Regency House Nursing and Rehabilitation Center,130.00,81.00,31.00,7.00,"181 E Main St, Wallingford, CT 06492, USA",41.45,-72.80,5/27/2020
+Wallingford,Skyview Rehab and Nursing,97.00,64.00,5.00,0.00,"35 Marc Dr, Wallingford, CT 06492, USA",41.45,-72.85,5/27/2020
+Waterbury,Abbott Terrace Health Center,205.00,115.00,36.00,8.00,"44 Abbott Terrace, Waterbury, CT 06702, USA",41.56,-73.04,5/27/2020
+Waterbury,Autumn Lake Healthcare At Bucks Hill,90.00,16.00,3.00,1.00,"2817 N Main St, Waterbury, CT 06704, USA",41.59,-73.03,5/27/2020
+Waterbury,Cheshire House Health Care Facility & Rehabilitation Center,75.00,25.00,10.00,4.00,"3396 E Main St, Waterbury, CT 06705, USA",41.54,-72.98,5/27/2020
+Waterbury,Grove Manor Nursing Home,60.00,8.00,1.00,0.00,"145 Grove St, Waterbury, CT 06710, USA",41.56,-73.04,5/27/2020
+Waterbury,RegalCare at Waterbury,120.00,60.00,11.00,0.00,"177 Whitewood Rd, Waterbury, CT 06708, USA",41.58,-73.08,5/27/2020
+Waterbury,Waterbury Gardens Nursing and Rehabilitation,150.00,40.00,13.00,1.00,"128 Cedar Ave, Waterbury, CT 06705, USA",41.55,-73.00,5/27/2020
+Waterford,Bayview Health Care,127.00,40.00,7.00,0.00,"301 Rope Ferry Rd, Waterford, CT 06385, USA",41.33,-72.17,5/27/2020
+Waterford,Greentree Manor Nursing and Rehabilitation,90.00,10.00,0.00,0.00,"4 Greentree Dr, Waterford, CT 06385, USA",41.39,-72.15,5/27/2020
+Waterford,New London Sub-Acute and Nursing,120.00,79.00,8.00,2.00,"31 Vauxhall St, New London, CT 06320, USA",41.36,-72.10,5/27/2020
+Watertown,Apple Rehab Watertown,110.00,1.00,2.00,0.00,"35 Bunker Hill Rd, Watertown, CT 06795, USA",41.58,-73.10,5/27/2020
+West Hartford,Hebrew Center for Health and Rehabilitation,257.00,41.00,6.00,6.00,"1 Abrahms Blvd, West Hartford, CT 06117, USA",41.80,-72.73,5/27/2020
+West Hartford,Hughes Health and Rehabilitation,170.00,44.00,16.00,5.00,"29 Highland St, West Hartford, CT 06119, USA",41.77,-72.72,5/27/2020
+West Hartford,Saint Mary Home,256.00,91.00,18.00,13.00,"2021 Albany Ave, West Hartford, CT 06117, USA",41.78,-72.73,5/27/2020
+West Hartford,The Reservoir,75.00,25.00,2.00,0.00,"75 Reservoir Rd, Vernon, CT 06066, USA",41.86,-72.43,5/27/2020
+West Hartford,West Hartford Health and Rehabilitation Center,160.00,96.00,14.00,7.00,"130 Loomis Dr, West Hartford, CT 06107, USA",41.77,-72.74,5/27/2020
+West Haven,Apple Rehab West Haven,90.00,55.00,11.00,2.00,"308 Savin Ave, West Haven, CT 06516, USA",41.26,-72.95,5/27/2020
+West Haven,RegalCare at West Haven,98.00,34.00,9.00,1.00,"310 Terrace Ave, West Haven, CT 06516, USA",41.28,-72.97,5/27/2020
+Westport,Westport Rehabilitation Complex,99.00,37.00,10.00,4.00,"1 Burr Rd, Westport, CT 06880, USA",41.14,-73.37,5/27/2020
+Wilton,Wilton Meadows Health Care Center,148.00,28.00,8.00,18.00,"439 Danbury Rd, Wilton, CT 06897, USA",41.22,-73.43,5/27/2020
+Windham,St. Joseph's Living Center,120.00,28.00,8.00,0.00,"14 Club Rd, Windham, CT 06280, USA",41.71,-72.19,5/27/2020
+Windsor,Kimberly Hall North,150.00,90.00,18.00,26.00,"1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,5/27/2020
+Windsor,Kimberly Hall South,180.00,78.00,12.00,2.00,"South, 1 Emerson Dr, Windsor, CT 06095, USA",41.84,-72.67,5/27/2020
+Windsor,Windsor Health and Rehabilitation Center,108.00,48.00,21.00,1.00,"581 Poquonock Ave, Windsor, CT 06095, USA",41.87,-72.66,5/27/2020
+Windsor,Locks Bickford Health Care Center,48.00,33.00,12.00,1.00,"14 Main St, Windsor Locks, CT 06096, USA",41.93,-72.63,5/27/2020
+Woodbridge,The Willows,90.00,62.00,16.00,2.00,"225 Amity Rd, Woodbridge, CT 06525, USA",41.34,-72.98,5/27/2020
